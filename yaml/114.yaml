@@ -274,7 +274,7 @@ last_para: 18785
     text: |
       <p>
         This is the first line of the book:
-        <a class="link-hpmor" href="https://hpmor.info/1.html#11">Chapter 1</a>
+        <a class="link-hpmor" href="https://hpmor.info/chapter/1/#11">Chapter 1</a>
       </p>
 18766:
   text: |-
