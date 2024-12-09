@@ -1,0 +1,31 @@
+[CHAPTERLINKS]
+</main>
+<script>
+    var p = 0;
+    const container = document.getElementById('main');
+    document.addEventListener('keyup', event => {
+        if (event.code === 'Enter') {
+            var topPos = document.getElementsByClassName('notes')[p++].offsetTop;
+            container.scrollTo({top: topPos, behavior: 'smooth'});
+        }
+    })
+
+    const main = document.getElementById("main");
+    function toggle_collapsed() {
+        if (main.classList.contains("collapsed")) {
+            expand()
+        } else {
+            main.classList.add("collapsed");
+            document.getElementById("collapse-link-text").innerHTML = "[+] show all paragraphs";
+        }
+    }
+
+    function expand() {
+        document.documentElement.style.scrollBehavior = "auto";
+        main.classList.remove("collapsed");
+        document.documentElement.style.scrollBehavior = "smooth";
+        document.getElementById("collapse-link-text").innerHTML = "[&minus;] show only annotated paragraphs";
+    }
+</script>
+</body>
+</html>
