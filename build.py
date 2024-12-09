@@ -69,12 +69,12 @@ for i in trange(1, 123):
     head = ""
     chapterlinks = "<div class='chapter-context-nav'>"
     if i != 1:
-        chapterlinks += f'<span class="prev-chapter"><a href="{i-1}.html">&larr; {i-1}</a></span>'
-        head += f'<link rel="prerender" href="{i-1}.html">'
+        chapterlinks += f'<span class="prev-chapter"><a href="/chapter/{i-1}">&larr; {i-1}</a></span>'
+        head += f'<link rel="prerender" href="/chapter/{i-1}">'
     chapterlinks += '<span class="go-home"><a href="/">Home</a></span>'
     if i != 122:
-        chapterlinks += f'<span class="next-chapter"><a href="{i+1}.html">{i+1} &rarr;</a></span>'
-        head += f'<link rel="prerender" href="{i+1}.html">'
+        chapterlinks += f'<span class="next-chapter"><a href="/chapter/{i+1}">{i+1} &rarr;</a></span>'
+        head += f'<link rel="prerender" href="/chapter/{i+1}">'
     chapterlinks += "</div>"
     html = html.replace("[CHAPTERLINKS]", chapterlinks)
     html = html.replace("[HEAD]", head)
@@ -171,7 +171,7 @@ for i in range(1,123):
             toc += '</ul>'
         toc += f"<h2>{books[i]}</h2>"
         toc += '<ul class="toc">'
-    toc += f'<li><a href="{i}.html">'
+    toc += f'<li><a href="/chapter/{i}">'
     toc += chapter[i]["title"]
     toc += "</a>"
     if chapter[i]["num_notes"]:
@@ -190,7 +190,7 @@ for i in trange(1,123):
     toc = ""
     for j in range(1,123):
         active = ' class="active-chapter"' if i == j else ""
-        toc += f'<li{active}><a href="{j}.html">'
+        toc += f'<li{active}><a href="/chapter/{j}">'
         toc += chapter[j]["title"]
         toc += "</a>"
         if chapter[j]["num_notes"]:
@@ -198,7 +198,8 @@ for i in trange(1,123):
             toc += f'<span class="num-notes"> [{chapter[j]["num_notes"]}{note_s}]</span>'
         toc += "</li>"
     htmls[i] = htmls[i].replace("[TOC]", toc)
-    out = open(f"html/{i}.html", "w", encoding='utf-8')
+    os.makedirs(f"html/chapter/{i}", exist_ok=True)
+    out = open(f"html/chapter/{i}/index.html", "w", encoding='utf-8')
     out.write(htmls[i])
     out.close()
 
