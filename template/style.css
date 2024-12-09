@@ -386,6 +386,10 @@ main.collapsed #last-expand-button {
 
 @media (max-width: 800px) {
 
+    main {
+        margin: 0;
+    }
+
     .paragraph {
         display:flex;
         flex-flow: column;
