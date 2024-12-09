@@ -1,6 +1,4 @@
-# New version, June 2021
 # Builds HTML files & uploads to server
-# does not connect to reddit api, just reads local json files
 
 from __future__ import unicode_literals, print_function
 from builtins import open, bytes
@@ -213,20 +211,3 @@ os.system("cp template/style.css html/style.css")
 # if input("Format HTML? ") != "":
 #     for filename in tqdm([str(i) for i in range(1,123)] + ["full", "index"]):
 #         subprocess.Popen(['npx', 'prettier', '--parser', 'html', '--write', f'html/{filename}.html'])
-    
-if PRINT_VSCODE_LINKS or input("Upload to server? ") == "":
-    sys.exit()
-
-# upload via FTP
-print("FTP upload..")
-ftp = FTP(os.environ["FTP_SERVER"])
-ftp.login(os.environ["FTP_USER"], os.environ["FTP_PASS"])
-try:
-    ftp.storbinary('STOR style.css', open("template/style.css", "rb")) 
-    ftp.storbinary('STOR index.html', open("html/index.html", "rb"))
-    for i in trange(1, 123):
-        ftp.storbinary('STOR '+str(i)+'.html', open(f"html/{i}.html", "rb")) 
-finally:
-    ftp.quit() 
-
-print("Done.")
