@@ -154,6 +154,7 @@ full += footer.replace("[CHAPTERLINKS]", "")
 total_notes = sum(chapter[i]["num_notes"] for i in range(1,123))
 
 print("Write HTML..")
+os.makedirs("html", exist_ok=True)
 books = {
     1: "<abbr title='Harry James Potter-Evans-Verres'>HJPEV</abbr> and the Methods of Rationality",
     22: "<abbr title='Harry James Potter-Evans-Verres'>HJPEV</abbr> and the Professor's Games",
