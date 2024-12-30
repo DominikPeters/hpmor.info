@@ -5,7 +5,7 @@ This is the source of the website [hpmor.info](https://hpmor.info) which contain
 
 ## Contributing
 
-Contributions of notes are welcome! Please open a pull request with your changes. A convenient way to contribute is to use the `github.dev` interface. Paragraphs on hpmor.info have a <kbd>+</kbd> link to their left, which opens a VS Code editor in your browser with the corresponding file open and the paragraph selected. You can then make your changes and open a pull request directly from the editor.
+Contributions of notes are welcome! Please open a pull request with your changes. A convenient way to contribute is to use [the github.dev interface](https://github.dev/DominikPeters/hpmor.info). Paragraphs on hpmor.info have a <kbd>+</kbd> link to their left, which opens a VS Code editor in your browser with the corresponding file open and the paragraph selected. You can then make your changes and open a pull request directly from the editor.
 
 The notes are stored in yaml files in the `yaml` directory. Each chapter has its own file named `<number>.yaml`. The format is as follows:
 
