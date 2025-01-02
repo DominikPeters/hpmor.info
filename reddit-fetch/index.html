@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Reddit Comment Fetcher</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        .container {
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #ff4500;
+            margin-top: 0;
+        }
+        p {
+            color: #666;
+            line-height: 1.5;
+        }
+        .input-group {
+            margin-bottom: 1rem;
+        }
+        input[type="url"] {
+            width: 100%;
+            padding: 0.5rem;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            font-size: 1rem;
+            margin-bottom: 1rem;
+        }
+        .checkbox-group {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            margin-bottom: 1rem;
+        }
+        button {
+            background-color: #ff4500;
+            color: white;
+            border: none;
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+            cursor: pointer;
+            font-size: 1rem;
+            transition: background-color 0.2s;
+        }
+        button:hover {
+            background-color: #ff5722;
+        }
+        button:disabled {
+            background-color: #ccc;
+            cursor: not-allowed;
+        }
+        .output-container {
+            margin-top: 1.5rem;
+            position: relative;
+        }
+        pre {
+            background-color: #f8f9fa;
+            padding: 1rem;
+            border-radius: 4px;
+            overflow-x: auto;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+            margin: 0;
+            border: 1px solid #ddd;
+        }
+        .copy-button {
+            position: absolute;
+            top: 0.5rem;
+            right: 0.5rem;
+            background-color: #666;
+            padding: 0.25rem 0.5rem;
+            font-size: 0.875rem;
+        }
+        .error {
+            color: #dc3545;
+            margin-top: 1rem;
+            padding: 0.5rem;
+            background-color: #f8d7da;
+            border-radius: 4px;
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Reddit Comment Fetcher</h1>
+        <p>Enter a reddit comment URL and get the comment formatted in YAML format suitable for hpmor.info</p>
+        
+        <div class="input-group">
+            <input type="url" id="urlInput" placeholder="Enter Reddit comment URL" required>
+            
+            <div class="checkbox-group">
+                <input type="checkbox" id="includeReplies">
+                <label for="includeReplies">Include replies</label>
+            </div>
+            
+            <button id="fetchButton">Fetch Comment</button>
+        </div>
+
+        <div id="error" class="error"></div>
+
+        <div class="output-container" style="display: none;">
+            <button class="copy-button">Copy</button>
+            <pre id="output"></pre>
+        </div>
+    </div>
+
+    <script>
+        const urlInput = document.getElementById('urlInput');
+        const includeReplies = document.getElementById('includeReplies');
+        const fetchButton = document.getElementById('fetchButton');
+        const outputContainer = document.querySelector('.output-container');
+        const output = document.getElementById('output');
+        const copyButton = document.querySelector('.copy-button');
+        const errorElement = document.getElementById('error');
+
+        async function fetchComment() {
+            const url = urlInput.value;
+            const child = includeReplies.checked ? 1 : 0;
+
+            if (!url) {
+                showError('Please enter a URL');
+                return;
+            }
+
+            try {
+                fetchButton.disabled = true;
+                fetchButton.textContent = 'Fetching...';
+                
+                const response = await fetch(`https://2nfpk3avjrfa4xfw3wq2xo24y40umkkz.lambda-url.us-east-2.on.aws/?reddit=${encodeURIComponent(url)}&child=${child}`);
+                
+                if (!response.ok) {
+                    throw new Error('Failed to fetch comment');
+                }
+
+                const data = await response.text();
+                output.textContent = data;
+                outputContainer.style.display = 'block';
+                errorElement.style.display = 'none';
+            } catch (error) {
+                showError('Error fetching comment: ' + error.message);
+            } finally {
+                fetchButton.disabled = false;
+                fetchButton.textContent = 'Fetch Comment';
+            }
+        }
+
+        function showError(message) {
+            errorElement.textContent = message;
+            errorElement.style.display = 'block';
+            outputContainer.style.display = 'none';
+        }
+
+        async function copyToClipboard() {
+            try {
+                await navigator.clipboard.writeText(output.textContent);
+                const originalText = copyButton.textContent;
+                copyButton.textContent = 'Copied!';
+                setTimeout(() => {
+                    copyButton.textContent = originalText;
+                }, 2000);
+            } catch (err) {
+                showError('Failed to copy to clipboard');
+            }
+        }
+
+        fetchButton.addEventListener('click', fetchComment);
+        copyButton.addEventListener('click', copyToClipboard);
+
+        // Enable fetch button when URL is entered
+        urlInput.addEventListener('input', () => {
+            fetchButton.disabled = !urlInput.value;
+        });
+    </script>
+</body>
+</html>

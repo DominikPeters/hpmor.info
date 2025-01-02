@@ -30,11 +30,15 @@ The notes are stored in yaml files in the `yaml` directory. Each chapter has its
         <a class="link-hpmor" href="https://hpmor.info/chapter/119/#19126">Chapter 119</a>
       </p>
 ```
-The date should refer to the date that the note was written. The author is optional. The text should use HTML, typically a single `<p>`-wrapped paragraph.
+The `date` should refer to the date that the note was written, using an unusual format with slashes to work better with YAML format. The `author` is optional; it is not currently displayed but may be in the future. If you would like credit for your contributions, feel free to put any of the following:
+- Your name
+- An `<a href="...">Your name</a>` link to your website or social media profile
+- A URL to a github, reddit, or LessWrong profile
+The `text` should use HTML, typically a single `<p>`-wrapped paragraph.
 
 The link in the example goes to a specific paragraph. You can find links to paragraphs on hpmor.info by checking the gray "anchor" links to the left of each paragraph. Use `class="link-hpmor"` for links to hpmor.info and `class="link-reddit"` for links to Reddit, and no class for links to other sites.
 
-Normal notes should have `- type: original`. There are also `- type: reddit` notes which are taken from Reddit comments. These should have a `comment` field with the comment ID. For example:
+Normal notes should have `- type: original`. There are also `- type: reddit` notes which are taken from Reddit comments. There is a little web tool for fetching a reddit comment and turning it into YAML format: https://hpmor.info/reddit-fetch/ Example of the YAML format for reddit notes:
 
 ```yaml
 1424:
