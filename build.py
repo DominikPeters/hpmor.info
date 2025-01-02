@@ -27,9 +27,9 @@ for i in trange(1, 123):
     # make vscode deeplinks for paragraphs
     with open(f"yaml/{i}.yaml", "r") as f:
         for lineno, line in enumerate(f):
+            line = line.strip()
             if not line:
                 continue
-            line = line.strip()
             if line[0] != " " and line[-1] == ":":
                 number = line[:-1]
                 if number.isdigit():
