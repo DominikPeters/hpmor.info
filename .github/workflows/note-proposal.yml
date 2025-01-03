@@ -54,5 +54,5 @@ jobs:
           ISSUE_NUMBER=$(echo "${{ github.event.issue.number }}")
           BRANCH_NAME="note-proposal-${ISSUE_NUMBER}"
           PR_LINK="https://github.com/${{ github.repository }}/compare/${BRANCH_NAME}?expand=1"
-          COMMENT_BODY="A new branch has been created with your note proposal. You can create a pull request using the following link: ${PR_LINK}"
+          COMMENT_BODY="A new branch has been created with your note proposal. You can edit the text of your issue to update the note. You can create a pull request using the following link: ${PR_LINK}"
           gh api -X POST /repos/${{ github.repository }}/issues/${ISSUE_NUMBER}/comments -f body="${COMMENT_BODY}"
