@@ -12,6 +12,8 @@ last_para: 209
 153:
   text: |-
     "Good Lord," said the barman, peering at Harry, "is this - can this be -?"
+  notes:
+  - type: test
 154:
   text: |-
     Harry leaned towards the bar of the Leaky Cauldron as best he could, though it
