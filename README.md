@@ -9,10 +9,10 @@ Contributions of notes are welcome!
 
 ### By proposing a note in an issue
 
-[&rarr; Propose a note](https://github.com/DominikPeters/hpmor-action-test/issues/new?assignees=&labels=note-proposal&projects=&template=note-proposal.yml&title=%5BNote+Proposal%5D+)
+[&rarr; Propose a note](https://github.com/DominikPeters/hpmor.info/issues/new?assignees=&labels=note-proposal&projects=&template=note-proposal.yml&title=%5BNote+Proposal%5D+)
 
 If you have a simple note to add, the easiest way is via an "issue".
-Open the issue using the ["Note Proposal" template](https://github.com/DominikPeters/hpmor-action-test/issues/new?assignees=&labels=note-proposal&projects=&template=note-proposal.yml&title=%5BNote+Proposal%5D+).
+Open the issue using the ["Note Proposal" template](https://github.com/DominikPeters/hpmor.info/issues/new?assignees=&labels=note-proposal&projects=&template=note-proposal.yml&title=%5BNote+Proposal%5D+).
 Fill in the paragraph number and the text of the note. You can also add your name.
 Once you submit the issue, a bot will add the note to the yaml files and add a comment allowing to open a pull request. You can either open the pull request yourself or wait for me to do it.
 
