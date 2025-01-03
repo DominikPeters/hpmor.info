@@ -20,6 +20,12 @@ last_para: 150
 100:
   text: |-
     Harry's father, Professor Michael Verres-Evans, rolled his eyes. "Yes, Harry."
+  notes:
+  - type: original
+    date: 2025/01/03
+    author: Dominik
+    origin: https://api.github.com/repos/DominikPeters/hpmor.info/issues/6
+    text: Test message
 101:
   text: |-
     "And you, Mum, your theory says that the professor should be able to do this,
