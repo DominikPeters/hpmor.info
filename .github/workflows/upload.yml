@@ -1,5 +1,8 @@
 name: Build and upload website
-on: [push]
+on:
+  push:
+    branches:
+      - master
 jobs:
   upload:
     runs-on: ubuntu-latest
