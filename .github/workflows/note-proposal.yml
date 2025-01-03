@@ -1,0 +1,51 @@
+name: Process Note Proposals
+on:
+  issues:
+    types: [opened, edited]
+jobs:
+  process-note-proposal:
+    if: contains(github.event.issue.labels.*.name, 'note-proposal')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Git repository
+        uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: |
+          pip install pyyaml
+      - name: Parse issue and create branch
+        id: parse_issue
+        run: |
+          echo "Parsing issue..."
+          ISSUE_NUMBER=$(echo "${{ github.event.issue.number }}")
+          BRANCH_NAME="note-proposal-${ISSUE_NUMBER}"
+          ISSUE_DATE=$(echo "${{ github.event.issue.created_at }}" | cut -d'T' -f1)
+          echo "##[set-output name=branch_name;]${BRANCH_NAME}"
+          echo "##[set-output name=issue_date;]${ISSUE_DATE}"
+          echo "Creating branch ${BRANCH_NAME}..."
+          git checkout -b ${BRANCH_NAME}
+      - name: Add note to YAML file
+        run: |
+          echo "Adding note to YAML file..."
+          python add_note.py "${{ github.event.issue.body }}" "${{ steps.parse_issue.outputs.branch_name }}" "${{ steps.parse_issue.outputs.issue_date }}"
+      - name: Commit changes
+        run: |
+          echo "Committing changes..."
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Add note from issue #${{ github.event.issue.number }}"
+      - name: Push changes
+        run: |
+          echo "Pushing changes..."
+          git push --set-upstream origin ${{ steps.parse_issue.outputs.branch_name }}
+      - name: Comment on issue with PR link
+        run: |
+          ISSUE_NUMBER=$(echo "${{ github.event.issue.number }}")
+          BRANCH_NAME="note-proposal-${ISSUE_NUMBER}"
+          PR_LINK="https://github.com/${{ github.repository }}/compare/${BRANCH_NAME}?expand=1"
+          COMMENT_BODY="A new branch has been created with your note proposal. You can create a pull request using the following link: ${PR_LINK}"
+          gh api -X POST /repos/${{ github.repository }}/issues/${ISSUE_NUMBER}/comments -f body="${COMMENT_BODY}"

@@ -1,0 +1,27 @@
+name: "Note Proposal"
+description: "Propose a new note to be added to the annotations."
+title: "[Note Proposal] "
+labels: ["note-proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please fill out the following fields to propose a new note to be added to the annotations.
+  - type: input
+    id: paragraph_number
+    attributes:
+      label: "Paragraph Number"
+      description: "The paragraph number to which the note will be added."
+      placeholder: "Enter the paragraph number"
+  - type: input
+    id: author
+    attributes:
+      label: "Author"
+      description: "The author of the note."
+      placeholder: "Enter the author's name"
+  - type: textarea
+    id: text
+    attributes:
+      label: "Text"
+      description: "The text of the note."
+      placeholder: "Enter the text of the note"
