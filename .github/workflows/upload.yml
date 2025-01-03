@@ -9,7 +9,7 @@ jobs:
       - name: Build website
         run: |
           pip install beautifulsoup4 tqdm ruamel.yaml
-          mv reddit-fetch html/reddit-fetch
+          mkdir html && mv reddit-fetch html/reddit-fetch
           python build.py
       - name: Upload files to FTP server
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5

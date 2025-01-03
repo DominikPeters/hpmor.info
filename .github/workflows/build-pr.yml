@@ -1,0 +1,12 @@
+name: Check if building website works
+on: [pull_request]
+jobs:
+  upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Git repository
+        uses: actions/checkout@v2
+      - name: Build website
+        run: |
+          pip install beautifulsoup4 tqdm ruamel.yaml
+          python build.py
