@@ -1,0 +1,28 @@
+name: "Note Proposal"
+description: "Propose a new note to be added to hpmor.info"
+title: "[Note Proposal] "
+labels: ["note-proposal"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Fill out the following form to propose a new note to be added to hpmor.info.
+        Please add a short title for the issue above (for internal use, this will not be included in the note). 
+  - type: input
+    id: paragraph_number
+    attributes:
+      label: "Paragraph Number"
+      description: "The paragraph number to which the note will be added. Paragraph numbers are shown on hpmor.info to the left of the text."
+      placeholder: "Enter the paragraph number, e.g. 150"
+  - type: input
+    id: author
+    attributes:
+      label: "Author"
+      description: "The author of the note. Can be left blank, or your name, or a link (URL) to your GitHub or reddit profile."
+      placeholder: "Enter the author's name"
+  - type: textarea
+    id: text
+    attributes:
+      label: "Text"
+      description: "The text of the note."
+      placeholder: "Enter the text of the note"

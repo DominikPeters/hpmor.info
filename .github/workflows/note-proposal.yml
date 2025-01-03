@@ -2,6 +2,8 @@ name: Process Note Proposals
 on:
   issues:
     types: [opened, edited]
+env:
+    GH_TOKEN: ${{ github.token }}
 jobs:
   process-note-proposal:
     if: contains(github.event.issue.labels.*.name, 'note-proposal')
@@ -9,13 +11,15 @@ jobs:
     steps:
       - name: Set up Git repository
         uses: actions/checkout@v2
+        with:
+          ref: master
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: '3.x'
       - name: Install dependencies
         run: |
-          pip install pyyaml
+          pip install beautifulsoup4 tqdm ruamel.yaml
       - name: Parse issue and create branch
         id: parse_issue
         run: |
@@ -25,23 +29,26 @@ jobs:
           ISSUE_DATE=$(echo "${{ github.event.issue.created_at }}" | cut -d'T' -f1)
           echo "##[set-output name=branch_name;]${BRANCH_NAME}"
           echo "##[set-output name=issue_date;]${ISSUE_DATE}"
-          echo "Creating branch ${BRANCH_NAME}..."
-          git checkout -b ${BRANCH_NAME}
+          
+          # Create/reset feature branch from master
+          git checkout -B ${BRANCH_NAME}
       - name: Add note to YAML file
         run: |
           echo "Adding note to YAML file..."
-          python add_note.py "${{ github.event.issue.body }}" "${{ steps.parse_issue.outputs.branch_name }}" "${{ steps.parse_issue.outputs.issue_date }}"
-      - name: Commit changes
+          python .github/workflow_scripts/add_note.py "${{ github.event.issue.body }}" "${{ steps.parse_issue.outputs.issue_date }}" "${{ github.event.issue.url }}"
+      - name: Commit and push changes
         run: |
           echo "Committing changes..."
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Add note from issue #${{ github.event.issue.number }}"
-      - name: Push changes
-        run: |
-          echo "Pushing changes..."
-          git push --set-upstream origin ${{ steps.parse_issue.outputs.branch_name }}
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Add note from issue #${{ github.event.issue.number }}"
+            echo "Force pushing changes..."
+            git push -f origin ${{ steps.parse_issue.outputs.branch_name }}
+          fi
       - name: Comment on issue with PR link
         run: |
           ISSUE_NUMBER=$(echo "${{ github.event.issue.number }}")
