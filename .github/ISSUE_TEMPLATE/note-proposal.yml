@@ -1,6 +1,6 @@
 name: "Note Proposal"
 description: "Propose a new note to be added to hpmor.info"
-title: "[Note Proposal] "
+title: "[Note Proposal]"
 labels: ["note-proposal"]
 body:
   - type: markdown

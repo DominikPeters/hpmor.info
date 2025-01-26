@@ -1,5 +1,6 @@
 import sys
 from ruamel.yaml import YAML
+from ruamel.yaml.scalarstring import LiteralScalarString
 from datetime import datetime
 
 def parse_issue(issue_body):
@@ -40,7 +41,7 @@ def add_note_to_yaml(paragraph_number, author, text, issue_date, origin):
                 'date': issue_date,
                 'author': author,
                 'origin': origin,
-                'text': text
+                'text': LiteralScalarString(text)
             })
             with open(f"yaml/{i}.yaml", "w") as f:
                 yaml.dump(chapter, f)
