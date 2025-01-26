@@ -36,7 +36,7 @@ for i in trange(1, 123):
                     # vscode_link[int(number)] = f"{vscode_prefix}/{i}.yaml#L{lineno+1}"
                     # if int(number) - 1 in vscode_link:
                     #     vscode_link[int(number) - 1] += f"-L{lineno}"
-                    vscode_link[int(number)] = f"https://github.com/DominikPeters/hpmor.info/issues/new?assignees=&labels=note-proposal&projects=&template=note-proposal.yml&paragraph_number={number}&title=%5BNote+Proposal%5D+Chapter+{i}%2C"
+                    vscode_link[int(number)] = f"https://github.com/DominikPeters/hpmor.info/issues/new?assignees=&labels=note-proposal&projects=&template=note-proposal.yml&paragraph_number={number}&title=Chapter+{i}"
 
 def note2string(note):
     if note["type"] == "reddit":
