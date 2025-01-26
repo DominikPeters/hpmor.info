@@ -43,6 +43,8 @@ def add_note_to_yaml(paragraph_number, author, text, issue_date, origin):
                 'origin': origin,
                 'text': LiteralScalarString(text)
             })
+            print(chapter[paragraph_number]['notes'])
+            print(text)
             with open(f"yaml/{i}.yaml", "w") as f:
                 yaml.dump(chapter, f)
             break
