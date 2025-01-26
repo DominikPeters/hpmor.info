@@ -180,7 +180,8 @@ last_para: 17188
   notes:
   - type: reddit
     author: EliezerYudkowsky
-    url: https://reddit.com/r/HPMOR/comments/3g95gb/spoilers_all_can_he_cast_ak_wordlessly/ctx4z7r/
+    url: 
+      https://reddit.com/r/HPMOR/comments/3g95gb/spoilers_all_can_he_cast_ak_wordlessly/ctx4z7r/
     date: 2015/08/09
     score: 27
     text: |
@@ -233,6 +234,15 @@ last_para: 17188
     they see that the spell is a certain shade of green. For this purpose it is
     useful to know some green stunning hexes. Really, Mr. Potter, you should
     understand by now how I operate."
+  notes:
+  - type: original
+    date: 2025/01/26
+    author: ''
+    origin: https://github.com/DominikPeters/hpmor.info/issues/8
+    text: |-
+      <p>
+      The Defense Professor does not say that in this case, he actually used a green stunning hex. In <a class="link-hpmor" href="https://hpmor.info/chapter/106/#17809">Chapter 106</a>, it becomes clear that he indeed had killed the Centaur. See also <a class="link-reddit" href="https://www.reddit.com/r/HPMOR/comments/1iah0bq/does_voldemort_actually_know_green_stunning_hexes/">reddit discussion</a>.
+      </p>
 17147:
   text: |-
     The Defense Professor came nearer the centaur's body, and Harry took an
