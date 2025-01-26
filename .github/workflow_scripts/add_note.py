@@ -2,6 +2,7 @@ import sys
 from ruamel.yaml import YAML
 from ruamel.yaml.scalarstring import LiteralScalarString
 from datetime import datetime
+import json
 
 def parse_issue(issue_body):
     lines = issue_body.split('\n')
@@ -50,10 +51,13 @@ def add_note_to_yaml(paragraph_number, author, text, issue_date, origin):
             break
 
 if __name__ == "__main__":
-    issue_body = sys.argv[1]
-    issue_date = datetime.strptime(sys.argv[2], "%Y-%m-%d").strftime("%Y/%m/%d")
+    event_file_name = sys.argv[1]
+    event = json.load(open(event_file_name))
+    print(json.dumps(event, indent=2))
+    issue_body = event['issue']['body']
+    issue_date = datetime.strptime(event['issue']['created_at'], "%Y-%m-%d").strftime("%Y/%m/%d")
     paragraph_number, author, text = parse_issue(issue_body)
     if author == "_No response_":
         author = ""
-    origin = sys.argv[3]
+    origin = event['issue']['html_url']
     add_note_to_yaml(paragraph_number, author, text, issue_date, origin)

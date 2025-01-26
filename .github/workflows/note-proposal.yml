@@ -35,7 +35,7 @@ jobs:
       - name: Add note to YAML file
         run: |
           echo "Adding note to YAML file..."
-          python .github/workflow_scripts/add_note.py "${{ github.event.issue.body }}" "${{ steps.parse_issue.outputs.issue_date }}" "${{ github.event.issue.url }}"
+          python .github/workflow_scripts/add_note.py "${{ github.event_path }}"
       - name: Commit and push changes
         run: |
           echo "Committing changes..."
