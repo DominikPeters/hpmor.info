@@ -55,7 +55,7 @@ if __name__ == "__main__":
     event = json.load(open(event_file_name))
     print(json.dumps(event, indent=2))
     issue_body = event['issue']['body']
-    issue_date = datetime.strptime(event['issue']['created_at'], "%Y-%m-%d").strftime("%Y/%m/%d")
+    issue_date = datetime.strptime(event['issue']['updated_at'], "%Y-%m-%dT%H:%M:%SZ").strftime("%Y/%m/%d")
     paragraph_number, author, text = parse_issue(issue_body)
     if author == "_No response_":
         author = ""
