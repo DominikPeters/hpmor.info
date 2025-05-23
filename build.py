@@ -42,7 +42,9 @@ def note2string(note):
     if note["type"] == "reddit":
         html = '<div class="note">'
         points = f'{note["score"]} point ' if note["score"] == 1 else f'{note["score"]} points ' if "score" in note else ""
-        html += f'<span class="meta"><a href="{note["url"]}"><b>{note["author"]}</b> {points}{note["date"]}</a></span>'
+        html += f"""<span class="meta">
+            <a href="{note["url"]}"><b>{note["author"]}</b> {points}{note["date"].replace("/", "-")}</a>
+        </span>"""
         html += note["text"]
         if "replies" in note:
             for child in note["replies"]:
@@ -50,6 +52,15 @@ def note2string(note):
         html += "</div>"
     elif note["type"] == "original":
         html = f'<div class="note">{note["text"]}</div>'
+    elif note["type"] == "note_needed":
+        html = f"""<div class="note note-needed">
+            <div class="note-needed-header">
+                [note needed]
+                <span class="note-needed-date">{note["date"].replace("/", "-")}</span> 
+                <span class="note-needed-add"><a href="{vscode_link[note["para"]]}">add note</a></span>
+            </div>
+            <div class="note-needed-explanation">{note["text"]}</div>
+        </div>"""
     else:
         raise Exception(f"Unknown note type: {note['type']}")
     return html
@@ -113,6 +124,7 @@ for i in trange(1, 123):
                     html += f'<div class="jump-to-prev-note"><a href="#{prev-2}">&uarr;</a></div>'
             for note in chapter[i][para]["notes"]:
                 chapter[i]["num_notes"] += 1
+                note["para"] = para
                 html += note2string(note)
             if para != active_paras[-1]:
                 following = active_paras[active_paras.index(para) + 1]

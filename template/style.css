@@ -106,8 +106,42 @@ main.collapsed #jump-to-first-note {
 }
 
 .notes .note p {
-    margin-top: 0.6em;
+    margin-top: 0.3em;
     margin-bottom: 0.6em;
+}
+
+.notes .note.note-needed {
+    background-color: hsl(38, 80%, 90%);
+    border-left: 2px solid hsl(38, 80%, 50%);
+    padding-top: 0.4em;
+}
+
+.notes .note.note-needed .note-needed-header {
+}
+
+.notes .note.note-needed .note-needed-header .note-needed-date {
+    color: #333;
+    font-size: 90%;
+    margin-left: 0.2em;
+}
+
+.notes .note.note-needed .note-needed-header .note-needed-add {
+    color: #333;
+    font-size: 90%;
+    margin-left: 0.2em;
+    display: none;
+}
+
+.notes .note.note-needed:hover .note-needed-header .note-needed-add {
+    display: inline;
+}
+
+.notes .note.note-needed .note-needed-explanation {
+    font-size: 90%;
+    color: #333;
+    margin-top: 0.2em;
+    margin-bottom: 0.2em;
+    font-style: italic;
 }
 
 .link-hpmor::before {

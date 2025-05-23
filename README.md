@@ -54,7 +54,12 @@ The `text` should use HTML, typically one or more `<p>`-wrapped paragraphs.
 
 The example above contains a link to `https://hpmor.info/chapter/119/#19126`, which points to a specific paragraph (number `19126`). You can find links to paragraphs on hpmor.info by checking the gray "anchor" links to the left of each paragraph. Use `class="link-hpmor"` for links to hpmor.info and `class="link-reddit"` for links to Reddit, and no class for links to other sites.
 
-**Note types**. Normal notes should have `- type: original`. There are also `- type: reddit` notes which copies of Reddit comments. There is a little web tool for fetching a reddit comment and turning it into YAML format: https://hpmor.info/reddit-fetch/ 
+**Note types**. Currently, there are three types of notes:
+- Normal notes have `- type: original`. 
+- To point out a location where a note would be useful, one can use `- type: note_needed`. The other fields are the same as for `original` notes, but the `text` should contain a short description of why a note is needed.
+- There are also `- type: reddit` notes which copies of Reddit comments. 
+
+Here is a little web tool for fetching a reddit comment and turning it into YAML format: https://hpmor.info/reddit-fetch/ 
 
 Example of the YAML format for reddit notes:
 
