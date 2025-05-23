@@ -9,6 +9,8 @@ def parse_issue(issue_body):
     paragraph_number = None
     author = None
     text = None
+
+    note_type = "original"
     
     current_section = None
     text_lines = []
@@ -24,12 +26,14 @@ def parse_issue(issue_body):
                 author = line
             elif current_section == 'Text':
                 text_lines.append(line)
-    
+            elif current_section == 'Note Needed':
+                if "[x]" in line:
+                    note_type = "note_needed"
     text = '\n'.join(text_lines).strip()
-    return paragraph_number, author, text
+    return paragraph_number, note_type, author, text
     
 
-def add_note_to_yaml(paragraph_number, author, text, issue_date, origin):
+def add_note_to_yaml(paragraph_number, note_type, author, text, issue_date, origin):
     yaml = YAML()
     for i in range(1, 123):
         with open(f"yaml/{i}.yaml", "r") as f:
@@ -38,7 +42,7 @@ def add_note_to_yaml(paragraph_number, author, text, issue_date, origin):
             if 'notes' not in chapter[paragraph_number]:
                 chapter[paragraph_number]['notes'] = []
             chapter[paragraph_number]['notes'].append({
-                'type': 'original',
+                'type': note_type,
                 'date': issue_date,
                 'author': author,
                 'origin': origin,
@@ -56,8 +60,8 @@ if __name__ == "__main__":
     print(json.dumps(event, indent=2))
     issue_body = event['issue']['body']
     issue_date = datetime.strptime(event['issue']['updated_at'], "%Y-%m-%dT%H:%M:%SZ").strftime("%Y/%m/%d")
-    paragraph_number, author, text = parse_issue(issue_body)
+    paragraph_number, note_type, author, text = parse_issue(issue_body)
     if author == "_No response_":
         author = ""
     origin = event['issue']['html_url']
-    add_note_to_yaml(paragraph_number, author, text, issue_date, origin)
+    add_note_to_yaml(paragraph_number, note_type, author, text, issue_date, origin)
