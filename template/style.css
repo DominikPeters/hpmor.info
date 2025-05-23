@@ -255,6 +255,11 @@ body.index ul.toc {
     font-size: 80%;
 }
 
+.toc .num-notes-needed {
+    font-size: 80%;
+    color: hsl(38, 83%, 47%);
+}
+
 body.index p {
     font-size: 110%;
 }

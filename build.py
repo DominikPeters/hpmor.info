@@ -24,6 +24,7 @@ for i in trange(1, 123):
     with open(f"yaml/{i}.yaml", "r") as f:
         chapter[i] = yaml.load(f)
         chapter[i]["num_notes"] = 0
+        chapter[i]["num_notes_needed"] = 0
     # make vscode deeplinks for paragraphs
     with open(f"yaml/{i}.yaml", "r") as f:
         for lineno, line in enumerate(f):
@@ -123,7 +124,10 @@ for i in trange(1, 123):
                 if prev < para - 2 and prev - 2 > chapter[i]["first_para"]:
                     html += f'<div class="jump-to-prev-note"><a href="#{prev-2}">&uarr;</a></div>'
             for note in chapter[i][para]["notes"]:
-                chapter[i]["num_notes"] += 1
+                if note["type"] == "note_needed":
+                    chapter[i]["num_notes_needed"] += 1
+                else:
+                    chapter[i]["num_notes"] += 1
                 note["para"] = para
                 html += note2string(note)
             if para != active_paras[-1]:
@@ -190,6 +194,9 @@ for i in range(1,123):
     if chapter[i]["num_notes"]:
         note_s = " note" if chapter[i]["num_notes"] == 1 else " notes"
         toc += f'<span class="num-notes"> [{chapter[i]["num_notes"]}{note_s}]</span>'
+    if chapter[i]["num_notes_needed"]:
+        note_s = " note" if chapter[i]["num_notes_needed"] == 1 else " notes"
+        toc += f'<span class="num-notes-needed"> [{chapter[i]["num_notes_needed"]}{note_s} needed]</span>'
     toc += "</li>"
 toc += "</ul>"
 index = index.replace("[TOC]", toc)
