@@ -14,6 +14,13 @@ body:
       label: "Paragraph Number"
       description: "The paragraph number to which the note will be added. Paragraph numbers are shown on hpmor.info to the left of the text."
       placeholder: "Enter the paragraph number, e.g. 150"
+  - type: checkboxes
+    id: note_needed
+    attributes:
+      label: Note Needed
+      description: "Instead of a note, you can point out a paragraph that needs a note. If so, please check the box below, and use the text field to succinctly describe why the note is needed."
+      options:
+        - label: Display this note as a [note needed] note
   - type: input
     id: author
     attributes:
