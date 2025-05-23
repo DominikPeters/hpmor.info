@@ -151,7 +151,8 @@ last_para: 2868
   notes:
   - type: reddit
     author: EliezerYudkowsky
-    url: https://reddit.com/r/HPMOR/comments/56edjn/what_happens_if_someone_ignores_that_advice/d8jm9zr/
+    url: 
+      https://reddit.com/r/HPMOR/comments/56edjn/what_happens_if_someone_ignores_that_advice/d8jm9zr/
     date: 2016/10/08
     score: 11
     text: |
@@ -1374,7 +1375,8 @@ last_para: 2868
       </p>
   - type: reddit
     author: EliezerYudkowsky
-    url: https://reddit.com/r/HPMOR/comments/60j19s/who_sent_harry_the_cloak_spoilers_all/df9xje1/
+    url: 
+      https://reddit.com/r/HPMOR/comments/60j19s/who_sent_harry_the_cloak_spoilers_all/df9xje1/
     date: 2017/03/22
     score: 19
     text: |
@@ -1670,6 +1672,13 @@ last_para: 2868
 2758:
   text: |-
     "I'm feeling thirsty," Harry said, "and that is not at all a good sign."
+  notes:
+  - type: note_needed
+    date: 2025/05/23
+    author: ''
+    origin: https://github.com/DominikPeters/hpmor.info/issues/14
+    text: |-
+      Why is it a bad sign that Harry is feeling thirsty?
 2759:
   text: |-
     Dumbledore entirely failed to ask any questions about this cryptic statement.
@@ -1883,7 +1892,8 @@ last_para: 2868
   notes:
   - type: reddit
     author: ArisKatsaris
-    url: https://reddit.com/r/HPMOR/comments/36qzc8/what_are_those_things_in_dumbledores_office/crgi1f7/
+    url: 
+      https://reddit.com/r/HPMOR/comments/36qzc8/what_are_those_things_in_dumbledores_office/crgi1f7/
     date: 2015/05/21
     score: 33
     text: |
@@ -1895,7 +1905,8 @@ last_para: 2868
     replies:
     - type: reddit
       author: EliezerYudkowsky
-      url: https://reddit.com/r/HPMOR/comments/36qzc8/what_are_those_things_in_dumbledores_office/crhb5q4/
+      url: 
+        https://reddit.com/r/HPMOR/comments/36qzc8/what_are_those_things_in_dumbledores_office/crhb5q4/
       date: 2015/05/22
       score: 32
       text: |
