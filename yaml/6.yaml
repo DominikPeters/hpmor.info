@@ -736,6 +736,12 @@ last_para: 689
         Dumbledore destroyed it, to fulfil a prophecy.
         <a class="link-hpmor" href="https://hpmor.info/chapter/119/#19126">Chapter 119</a>
       </p>
+  - type: original
+    date: 2025/08/07
+    author: hs
+    origin: https://github.com/DominikPeters/hpmor.info/issues/21
+    text: |-
+      Dumbledoor admitted not having any idea why the pet rock needed to be destroyed, just that it was one of the many seemingly incomprehensible requirements. Presumably the optimal prophesied timeline required Harry to not worry about Hedwig, and so the pet rock killing was the most efficient way to achieve that.
 521:
   text: |-
     "You don't think you could take care of a pet?"
@@ -888,7 +894,8 @@ last_para: 689
   notes:
   - type: reddit
     author: EliezerYudkowsky
-    url: https://reddit.com/r/HPMOR/comments/7uq8st/where_exacly_is_the_hpmor_harry_potter_annoying/dtp2glg/
+    url: 
+      https://reddit.com/r/HPMOR/comments/7uq8st/where_exacly_is_the_hpmor_harry_potter_annoying/dtp2glg/
     date: 2018/02/03
     score: 22
     text: |
@@ -1557,7 +1564,8 @@ last_para: 689
   notes:
   - type: reddit
     author: EliezerYudkowsky
-    url: https://reddit.com/r/HPMOR/comments/4yoz52/all_spoilers_suspicious_details_in_hpmor/d6sgggl/
+    url: 
+      https://reddit.com/r/HPMOR/comments/4yoz52/all_spoilers_suspicious_details_in_hpmor/d6sgggl/
     date: 2016/08/22
     score: 26
     text: |
