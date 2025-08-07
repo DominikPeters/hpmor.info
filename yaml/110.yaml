@@ -66,7 +66,8 @@ last_para: 18347
   notes:
   - type: reddit
     author: sir_pirriplin
-    url: https://reddit.com/r/HPMOR/comments/5bf7gg/question_about_dumbledore_spoilers_all/d9oo96s/
+    url: 
+      https://reddit.com/r/HPMOR/comments/5bf7gg/question_about_dumbledore_spoilers_all/d9oo96s/
     date: 2016/11/06
     score: 11
     text: |
@@ -82,7 +83,8 @@ last_para: 18347
     replies:
     - type: reddit
       author: EliezerYudkowsky
-      url: https://reddit.com/r/HPMOR/comments/5bf7gg/question_about_dumbledore_spoilers_all/d9op5xg/
+      url: 
+        https://reddit.com/r/HPMOR/comments/5bf7gg/question_about_dumbledore_spoilers_all/d9op5xg/
       date: 2016/11/06
       score: 11
       text: |
@@ -302,6 +304,13 @@ last_para: 18347
   text: |-
     Albus Dumbledore threw these both violently aside, just as the building sense of
     power rose to an unbearable peak, and then disappeared.
+  notes:
+  - type: original
+    date: 2025/08/07
+    author: hs
+    origin: https://github.com/DominikPeters/hpmor.info/issues/22
+    text: |-
+      Realizing catastrophe, Dumbledoor desperately tries to salvage aspects of the optimal prophecy timeline post-Voldemort's defeat (which must be looking grim to him at this point). His letter post-defeat gives Harry both items (The Line and the Elder Wand), which presumably are both prophesied to be necessary tools that Harry must wield for the next great task.
 18344:
   text: |-
     The Mirror returned to showing the ordinary reflection of a gold-lit room of
