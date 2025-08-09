@@ -82,7 +82,8 @@ jobs:
           ISSUE_NUMBER=$(echo "${{ github.event.issue.number }}")
           BRANCH_NAME="note-proposal-${ISSUE_NUMBER}"
           PR_LINK="https://github.com/${{ github.repository }}/compare/${BRANCH_NAME}?expand=1"
-          PREVIEW_LINK="https://hpmor.info/preview/${ISSUE_NUMBER}.html"
+          PARAGRAPH_NUMBER="${{ steps.generate_preview.outputs.paragraph_number }}"
+          PREVIEW_LINK="https://hpmor.info/preview/${ISSUE_NUMBER}.html#${PARAGRAPH_NUMBER}"
           COMMENT_BODY="Your note proposal has been processed!
 
           Preview the note: ${PREVIEW_LINK}

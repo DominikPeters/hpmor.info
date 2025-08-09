@@ -41,6 +41,14 @@ def add_note_to_yaml(paragraph_number, note_type, author, text, issue_date, orig
         if paragraph_number in chapter:
             if 'notes' not in chapter[paragraph_number]:
                 chapter[paragraph_number]['notes'] = []
+            
+            # Remove any existing note from the same issue
+            chapter[paragraph_number]['notes'] = [
+                note for note in chapter[paragraph_number]['notes']
+                if note.get('origin') != origin
+            ]
+            
+            # Add the new/updated note
             chapter[paragraph_number]['notes'].append({
                 'type': note_type,
                 'date': issue_date,
