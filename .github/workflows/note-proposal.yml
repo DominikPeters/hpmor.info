@@ -36,6 +36,34 @@ jobs:
         run: |
           echo "Adding note to YAML file..."
           python .github/workflow_scripts/add_note.py "${{ github.event_path }}"
+      - name: Generate preview
+        id: generate_preview
+        run: |
+          echo "Generating preview..."
+          # Extract paragraph number from the issue
+          PARAGRAPH_NUMBER=$(python -c "
+          import json, sys
+          event = json.load(open('${{ github.event_path }}'))
+          lines = event['issue']['body'].split('\n')
+          for line in lines:
+              line = line.strip()
+              if line.startswith('### ') and 'Paragraph Number' in line:
+                  continue
+              elif line and line.isdigit():
+                  print(line)
+                  break
+          ")
+          echo "Paragraph number: $PARAGRAPH_NUMBER"
+          python .github/workflow_scripts/generate_preview.py "$PARAGRAPH_NUMBER" "${{ github.event.issue.number }}"
+          echo "##[set-output name=paragraph_number;]${PARAGRAPH_NUMBER}"
+      - name: Upload preview to FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USER }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: preview/
+          server-dir: preview/
       - name: Commit and push changes
         run: |
           echo "Committing changes..."
@@ -54,5 +82,12 @@ jobs:
           ISSUE_NUMBER=$(echo "${{ github.event.issue.number }}")
           BRANCH_NAME="note-proposal-${ISSUE_NUMBER}"
           PR_LINK="https://github.com/${{ github.repository }}/compare/${BRANCH_NAME}?expand=1"
-          COMMENT_BODY="A new branch has been created with your note proposal. You can edit the text of your issue to update the note. You can create a pull request using the following link: ${PR_LINK}"
+          PREVIEW_LINK="https://hpmor.info/preview/${ISSUE_NUMBER}.html"
+          COMMENT_BODY="Your note proposal has been processed!
+
+          Preview the note: ${PREVIEW_LINK}
+
+          Next steps:
+          - You can edit the text of your issue to update the note (the preview will be regenerated automatically)
+          - Maintainers can create a pull request using this link: ${PR_LINK}"
           gh api -X POST /repos/${{ github.repository }}/issues/${ISSUE_NUMBER}/comments -f body="${COMMENT_BODY}"
