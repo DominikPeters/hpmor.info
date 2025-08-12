@@ -51,6 +51,20 @@ def main():
     shutil.copy(f"html/chapter/{chapter_num}/index.html", f"preview/{issue_number}.html")
     shutil.copy("html/style.css", "preview/style.css")
     
+    # Add noindex meta tag to preview HTML
+    preview_file = f"preview/{issue_number}.html"
+    with open(preview_file, "r", encoding="utf-8") as f:
+        html_content = f.read()
+    
+    # Insert noindex meta tag before closing </head> tag
+    html_content = html_content.replace(
+        "</head>", 
+        '    <meta name="robots" content="noindex, nofollow">\n</head>'
+    )
+    
+    with open(preview_file, "w", encoding="utf-8") as f:
+        f.write(html_content)
+    
     print(f"Preview generated at preview/{issue_number}.html")
     print(f"Chapter number: {chapter_num}")
 
