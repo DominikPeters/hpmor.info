@@ -269,6 +269,12 @@ last_para: 4493
   text: |-
     <em>It's the sort of dumb question you'd only ask in the first place if you'd
     been raised by Muggles.</em>
+  notes:
+  - type: note_needed
+    date: 2026/01/07
+    author: Claude Opus 4.5
+    text: |-
+      Whose thought is this? The italicized text appears immediately after Draco's answer, but it doesn't seem to match Harry's usual internal voice.
 4326:
   text: |-
     Then the sickness in Draco's stomach got even worse as he realized what it would
@@ -313,6 +319,12 @@ last_para: 4493
     There wasn't anything unfamiliar on the list, except for a species of Dark
     creature called mind flayers which the translator noted had finally been
     exterminated by Harold Shea, and those didn't sound half as scary as Dementors.
+  notes:
+  - type: note_needed
+    date: 2026/01/07
+    author: Claude Opus 4.5
+    text: |-
+      What are mind flayers and who is Harold Shea?
 4335:
   text: |-
     Magical creatures were as powerful now as they'd ever been, apparently.
@@ -355,6 +367,12 @@ last_para: 4493
     interfering with magic. (Since 800 years ago?)<br/> 6. Stronger wizards are
     having fewer children. (Draco = only child? Check if 3 powerful wizards,
     Quirrell / Dumbledore / Dark Lord, had any children.)</em>
+  notes:
+  - type: note_needed
+    date: 2026/01/07
+    author: Claude Opus 4.5
+    text: |-
+      Why does Harry list "Quirrell / Dumbledore / Dark Lord" as his three examples of the most powerful wizards? He has only known Quirrell for a few weeks at this point.
 4345:
   text: |-
     <em><span style="text-decoration:underline;">Tests:</span></em>
@@ -629,6 +647,12 @@ last_para: 4493
 4397:
   text: |-
     "<em>Gom jabbar!</em> "
+  notes:
+  - type: note_needed
+    date: 2026/01/07
+    author: Claude Opus 4.5
+    text: |-
+      What is a Gom Jabbar?
 4398:
   text: |-
     A pulse of inky blackness struck Harry's left hand.
@@ -755,6 +779,12 @@ last_para: 4493
 4429:
   text: |-
     <em>Thank you, Professor Quirrell, I couldn't have lost without you.</em>
+  notes:
+  - type: note_needed
+    date: 2026/01/07
+    author: Claude Opus 4.5
+    text: |-
+      Why is Harry thanking Professor Quirrell for helping him lose?
 4430:
   text: |-
     He hadn't redeemed Draco yet, not even close. Contrary to what Draco himself
@@ -799,6 +829,12 @@ last_para: 4493
   text: |-
     But he hadn't actually <em>lied</em> to Draco. Draco had believed it, and
     <em>that would make it true.</em>
+  notes:
+  - type: note_needed
+    date: 2026/01/07
+    author: Claude Opus 4.5
+    text: |-
+      What does Harry mean by "Draco had believed it, and that would make it true"?
 4437:
   text: |-
     The end, admittedly, had not been fun.
