@@ -1,0 +1,3150 @@
+================================================================================
+File: 1.yaml | Paragraph 11
+================================================================================
+11:
+  text: |-
+    <em>Beneath the moonlight glints a tiny fragment of silver, a fraction of a
+    line...</em>
+  notes:
+  - type: original
+    date: 2020/04/29
+    text: |
+      <p>
+        These words appear again in
+        <a class="link-hpmor" href="https://hpmor.info/chapter/114/#18765">Chapter 114</a>
+      </p>
+
+================================================================================
+File: 1.yaml | Paragraph 54
+================================================================================
+54:
+  text: |-
+    Harry rubbed his forehead, grimacing. <em>Don't believe everything you
+    think,</em> one of his books had said.
+  notes:
+  - type: original
+    date: 2024/12/29
+    author: hpmor.info
+    text: |
+      <p>
+        Note "some part of Harry was utterly convinced that magic was real" in
+        the previous paragraph almost immediately followed here by, "Harry
+        rubbed his forehead".
+      </p>
+
+================================================================================
+File: 2.yaml | Paragraph 131
+================================================================================
+131:
+  text: |-
+    "I don't sleep right," Harry said. He waved his hands helplessly. "My sleep
+    cycle is twenty-six hours long, I always go to sleep two hours later, every day.
+    I can't fall asleep any earlier than that, and then the next day I go to sleep
+    two hours later than <em>that.</em> 10PM, 12AM, 2AM, 4AM, until it goes around
+    the clock. Even if I try to wake up early, it makes no difference and I'm a
+    wreck that whole day. That's why I haven't been going to a normal school up
+    until now."
+  notes:
+  - type: original
+    date: 2020/04/30
+    text: |
+      <p>
+        Harry's sleep cycle is 2 hours too long because Dumbledore slipped him a
+        potion in order to fulfil a prophecy.
+        <a class="link-hpmor" href="https://hpmor.info/chapter/119/#19126">Chapter 119</a>
+      </p>
+
+================================================================================
+File: 2.yaml | Paragraph 133
+================================================================================
+133:
+  text: |-
+    McGonagall gave a long <em>hmmmmm.</em> "I can't recall hearing about such a
+    condition before..." she said slowly. "I'll check with Madam Pomfrey to see if
+    she knows any remedies." Then her face brightened. "No, I'm sure this won't be a
+    problem - I'll find a solution in time. Now," and her gaze sharpened again,
+    "what are these <em>other</em> reasons?"
+  notes:
+  - type: original
+    date: 2020/04/30
+    text: |
+      <p>
+        she will indeed find a solution <em>in time</em>, by giving Harry a time
+        turner
+      </p>
+
+================================================================================
+File: 3.yaml | Paragraph 168
+================================================================================
+168:
+  text: |-
+    "I had the strangest feeling that I knew him..." Harry rubbed his forehead. "And
+    that I shouldn't ought to shake his hand." Like meeting someone who had been a
+    friend, once, before something went drastically wrong... that wasn't really it
+    at all, but Harry couldn't find words. "And what <em>was...</em> all of that?"
+  notes:
+  - type: reddit
+    author: PhantomX129
+    url: https://reddit.com/r/HPMOR/comments/2ygxv9/chapter_118/cp9qtiu/
+    date: 2015/03/09
+    score: 26
+    text: |
+      <p>Wait what? How in the world would you deduce Draco=Voldie?</p>
+      <p>And what do you mean:</p>
+      <blockquote>
+        <p>Eliezer wants us to consider Q=V, not that Q=V.</p>
+      </blockquote>
+      <p>
+        HPMOR is/(was?) solvable. EY said that he'd hide things in the open, not
+        intentionally mislead us.
+      </p>
+      <p>My goto evidence for Q=V has always been: (Ch 3)</p>
+      <blockquote>
+        <p>
+          Professor?" Harry said, once they were in the courtyard. He had meant to ask
+          what was going on, but oddly found himself asking an entirely different
+          question instead. "Who was that pale man, by the corner? The man with the
+          twitching eye?"
+        </p>
+        <p>
+          "Hm?" said Professor McGonagall, sounding a bit surprised; perhaps she
+          hadn't expected that question either. "That was Professor Quirinus Quirrell.
+          He'll be teaching Defence Against the Dark Arts this year at Hogwarts."
+        </p>
+        <p>
+          <strong>"I had the strangest feeling that I knew him..."</strong> Harry
+          rubbed his forehead. "And that I shouldn't ought to shake his hand."
+        </p>
+      </blockquote>
+      <p>List of wizards Harry has seen ever:</p>
+      <ul>
+        <li>
+          <p><del>James Potter</del> (Dead)</p>
+        </li>
+        <li>
+          <p><del>Lily Potter</del> (Dead)</p>
+        </li>
+        <li>
+          <p>
+            <del>Dumbeldore/Hagrid</del> (Would be unable to maintain two seperate
+            persona's for an entire year)
+          </p>
+        </li>
+        <li>
+          <p>
+            <del>Lupin</del> (Doesn't need to be hired as Defense professor under a
+            false name)
+          </p>
+        </li>
+        <li><p>Serius Black</p></li>
+        <li>
+          <p><strong>Lord Voldemort</strong></p>
+        </li>
+      </ul>
+    replies:
+    - type: reddit
+      author: EliezerYudkowsky
+      url: https://reddit.com/r/HPMOR/comments/2ygxv9/chapter_118/cp9sk6r/
+      date: 2015/03/09
+      score: 18
+      text: |
+        <p>THANK YOU.</p>
+
+================================================================================
+File: 6.yaml | Paragraph 404
+================================================================================
+404:
+  text: |-
+    "That's just a <em>word!</em> Even after you tell me that, I can't make any new
+    predictions! It's exactly like saying 'phlogiston' or 'elan vital' or
+    'emergence' or 'complexity'!"
+  notes:
+  - type: original
+    date: 2020/04/30
+    text: |
+      <p>
+        see
+        <a href="https://www.lesswrong.com/posts/fysgqk4CjAwhBgNYT/fake-explanations"
+          >Fake Explanations</a
+        >
+      </p>
+
+================================================================================
+File: 6.yaml | Paragraph 461
+================================================================================
+461:
+  text: |-
+    "- I am going to be in Ravenclaw. And if you really think that I'm planning to
+    do something dangerous, then, honestly, you don't understand me <em>at all.</em>
+    I don't <em>like</em> danger, it is <em>scary.</em> I am being <em>prudent</em>.
+    I am being <em>cautious</em>. I am preparing for <em>unforeseen
+    contingencies</em>. Like my parents used to sing to me: <em>Be prepared! That's
+    the Boy Scout's marching song! Be prepared! As through life you march along!
+    Don't be nervous, don't be flustered, don't be scared - be prepared!</em> "
+  notes:
+  - type: original
+    date: 2020/04/30
+    text: |
+      <p>
+        These are the lyrics of a Tom Lehrer song:
+        <a href="https://www.youtube.com/watch?v=gkrheaWuShU"
+          >https://www.youtube.com/watch?v=gkrheaWuShU</a
+        >
+      </p>
+
+================================================================================
+File: 6.yaml | Paragraph 464
+================================================================================
+464:
+  text: |-
+    "One of my classmates gets bitten by a horrible monster, and as I scrabble
+    frantically in my mokeskin pouch for something that could help her, she looks at
+    me sadly and with her last breath says, <em>'Why weren't you prepared?'</em> And
+    then she dies, and I know as her eyes close that she won't ever forgive me -"
+  notes:
+  - type: original
+    date: 2020/04/30
+    text: |
+      <p>
+        This description anticipates the events of
+        <a class="link-hpmor" href="https://hpmor.info/chapter/89/#15795">Chapter 89</a>
+      </p>
+
+================================================================================
+File: 6.yaml | Paragraph 520
+================================================================================
+520:
+  text: |-
+    "I had a pet rock once. It died."
+  notes:
+  - type: original
+    date: 2020/04/30
+    text: |
+      <p>
+        Dumbledore destroyed it, to fulfil a prophecy.
+        <a class="link-hpmor" href="https://hpmor.info/chapter/119/#19126">Chapter 119</a>
+      </p>
+
+================================================================================
+File: 6.yaml | Paragraph 552
+================================================================================
+552:
+  text: |-
+    The witch opened her hands, as though to show their emptiness. "Sure? I'm sure
+    of <em>nothing</em>, Mr. Potter. In all my life I've never met anyone else like
+    you. Sometimes you just don't seem eleven years old or even all that
+    <em>human</em>."
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/7uq8st/where_exacly_is_the_hpmor_harry_potter_annoying/dtp2glg/
+    date: 2018/02/03
+    score: 22
+    text: |
+      <p>
+        You mean the part where Professor McGonagall says "Sure? I'm sure of nothing,
+        Mr. Potter. In all my life I've never met anyone else like you. Sometimes you
+        just don't seem eleven years old or even all that human."
+      </p>
+      <p>
+        I don't see how I could have tried any harder than that without blowing up the
+        story.
+      </p>
+
+================================================================================
+File: 6.yaml | Paragraph 585
+================================================================================
+585:
+  text: |-
+    Harry was a bit sceptical of that "<em>no one</em> has <em>ever</em> escaped
+    from Azkaban" line. Still, maybe with magic you could actually get close to a
+    100% perfect prison, especially if you had a wand and they did not. The best way
+    to get out would be to not go there in the first place.
+  notes:
+  - type: original
+    date: 2024/12/29
+    author: hpmor.info
+    text: |
+      <p>
+        This foreshadows Sirius Black and Peter Pettigrew.
+      </p>
+
+================================================================================
+File: 6.yaml | Paragraph 680
+================================================================================
+680:
+  text: |-
+    As his hand touched the back door's handle, he heard a last whisper from behind
+    him.
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/4yoz52/all_spoilers_suspicious_details_in_hpmor/d6sgggl/
+    date: 2016/08/22
+    score: 26
+    text: |
+      <p>These are well-spotted as suspicious!</p>
+      <p>
+        While the obvious interpretation of the mysterious whisper is Dumbledore, I
+        was also thinking that if fanfiction of HPMOR someday became sufficiently
+        popular, then it would be very hard to Peggy Sue HPMOR. So the mysterious
+        whisper is also potentially a Reverse Peggy Sue plot hook, as the final
+        whisper originating from the disastrous universe where Harry never met
+        Hermione.
+      </p>
+      <hr />
+      <p>
+        I never did find a good place for Harry and Hermione to talk about how many
+        wizards, not just seers, might feel rather vague pressures in the presence of
+        temporally important things... but because so many different people claimed to
+        feel that they needed to do something important, or that they sure knew how
+        the future would go, and then were proven wrong, this more widespread temporal
+        sense became Disreputable and Low-Status. And so the High-Status thing to
+        claim was that only Official Seers ever had anything to do with prophecy, and
+        make fun of anyone not an Official Seer who claimed to feel any kind of
+        temporal pressure, and the textbooks all said it was only seers.
+      </p>
+      <p>Although I did manage to put in this one part in Ch. 116:</p>
+      <blockquote>
+        <p>
+          She was aware, in the back of her mind, that if the Quidditch rules really
+          did change starting here and now, then this was the most important thing
+          she'd ever do. She could almost feel the pressure of Time twisting around
+          her as though the fate of Quidditch Itself were being settled this very day,
+          and she was standing close to the center of it... though she hadn't gotten
+          high-enough scores in Divination to actually sense anything like that, of
+          course.
+        </p>
+      </blockquote>
+      <p>And of course there's this in Ch. 88:</p>
+      <blockquote>
+        <p>
+          He should have slowed down for safety, but there was a tension rising in
+          him, a sourceless dread. He couldn't slow down, something terrible would
+          happen if he slowed down...
+        </p>
+      </blockquote>
+      <p>and</p>
+      <blockquote>
+        <p>
+          The pressure in Harry's mind still rising, like a physical hand squeezing
+          his chest, he had to find Hermione and he had no other notion of where she
+          could be
+        </p>
+      </blockquote>
+      <p>
+        So yes, the model in HPMOR has always been that in moments of sufficiently
+        great temporal pressure, non-seers can also feel something.
+      </p>
+
+================================================================================
+File: 7.yaml | Paragraph 820
+================================================================================
+820:
+  text: |-
+    Harry bowed his head, accepting the compliment. "I'm <em>terribly</em> sorry
+    about that," Harry said. "Our first meeting, I mean. I didn't mean to embarrass
+    you in front of Lucius."
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/5vxte7/when_and_where_did_harry_find_snape_to_ask_him/de6sdcv/
+    date: 2017/02/24
+    score: 43
+    text: |
+      <p>
+        One of the hints I think literally nobody picked up on is that Harry
+        immediately thinks of Death Eaters, and only Death Eaters among adults, by
+        their first names on first meeting; and also has implausibly detailed first
+        impressions of them.
+      </p>
+
+================================================================================
+File: 7.yaml | Paragraph 836
+================================================================================
+836:
+  text: |-
+    "You had to be there. Anyway, I'm glad to hear all that. The way Lucius was
+    looking at you, I thought he was going to c-crucify you."
+  notes:
+  - type: reddit
+    author: Gavin_Magnus
+    url: https://reddit.com/r/HPMOR/comments/g9zuqy/something_i_havent_figured_out/fox83pn/
+    date: 2020/04/29
+    score: 38
+    text: |
+      <p>
+        Spoiler:
+        <span class="md-spoiler-text"
+          >What Harry is trying to say is "Crucio," but the strange thing is that he
+          has never heard of the Cruciatus Curse. It comes from his subconscious
+          thoughts he has inherited from Voldemort. If he had stopped to consciously
+          think about what he was saying, I don't think he would have used any word
+          close to "Crucio." The stutter came when his conscious mind finished wrongly
+          the beginning of the word that his subconscious mind had chosen for him to
+          say. This is not the only instance where thoughts inherited from Voldemort
+          affect Harry's thinking. Notice how he uses the first names of Lucius and
+          Severus from the beginning, and he instinctively understands their dangerous
+          natures.</span
+        >
+      </p>
+
+================================================================================
+File: 7.yaml | Paragraph 1016
+================================================================================
+1016:
+  text: |-
+    <em>Dear Father:</em>
+  notes:
+  - type: reddit
+    author: XxChronOblivionxX
+    url: https://reddit.com/r/HPMOR/comments/emr5hk/question_about_chapter_7_minor_spoilers/fdqj6b9/
+    date: 2020/01/10
+    score: 32
+    text: |
+      <p>
+        Lastly, it took me aaaaages to come up with a working theory about what the
+        letter from Lucius meant. Basically, Harry has such an accurate read on Lucius
+        that Lucius doesn't think he could know that without being an ally of Snape.
+        Draco knows that this isn't true, he knows that Harry has never met the man,
+        and that means that Harry is even more impressive than he previously believed.
+        It feels like this was supposed to communicate something, but it definitely
+        wasn't obvious to me, and this is my best guess.
+      </p>
+    replies:
+    - type: reddit
+      author: LogicDragon
+      url: https://reddit.com/r/HPMOR/comments/emr5hk/question_about_chapter_7_minor_spoilers/fds9ra9/
+      date: 2020/01/10
+      score: 28
+      text: |
+        <blockquote>
+          <p>
+            It feels like this was supposed to communicate something, but it definitely
+            wasn't obvious to me, and this is my best guess.
+          </p>
+        </blockquote>
+        <p>
+          It's another Harrymort clue. Harry forms uncannily accurate impressions of
+          known Death Eaters from little information, but only from the perspective of
+          Voldemort.
+        </p>
+
+================================================================================
+File: 9.yaml | Paragraph 1210
+================================================================================
+1210:
+  text: |-
+    When Part I of this chapter was first posted, I said that if anyone guessed what
+    the last sentence was talking about before the next update, I would tell them
+    the entire rest of the plot.
+  draw-line-after-paragraph: true
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/2x5ot7/aaaahhhhh_pardon_me/cox8l9s/
+    date: 2015/02/25
+    score: 52
+    text: |
+      <p>
+        I wouldn't DARE try the Ch. 9 offer again.
+        <a href="/r/HPMOR">/r/HPMOR</a> would get it in 30 minutes and then come up
+        with an even more awesome alternative theory i never imagined that made the
+        actual event look stupid.
+      </p>
+
+================================================================================
+File: 9.yaml | Paragraph 1248
+================================================================================
+1248:
+  text: |-
+    Hermione broke loose and ran full tilt towards the Sorting Hat, picked it up and
+    jammed the patchy old clothwork down hard over her head, making Harry wince.
+    Hermione had been the one to explain to <em>him</em> about the Sorting Hat, but
+    she certainly didn't <em>treat</em> it like an irreplaceable, vitally important,
+    800-year-old artefact of forgotten magic that was about to perform intricate
+    telepathy on her mind and didn't seem to be in very good physical condition.
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/5jj0px/why_is_hogwarts_800_years_old/dbhsyrh/
+    date: 2016/12/21
+    score: 25
+    text: |
+      <p>
+        I tried to look up the age of Hogwarts, didn't find anything at the time,
+        thought it was underspecified, and chose an age.
+      </p>
+
+================================================================================
+File: 9.yaml | Paragraph 1255
+================================================================================
+1255:
+  text: |-
+    Professor McGonagall called "Perks, Sally-Anne!", and from the gathered children
+    detached a pale waifish girl who looked oddly ethereal - like she might
+    mysteriously disappear the moment you stopped looking at her, and never be seen
+    again or even remembered.
+  notes:
+  - type: original
+    date: 2024/12/29
+    author: hpmor.info
+    text: |
+      <p>
+        Sally-Anne Perks is mentioned exactly once in the original series when her
+        name is called out for sorting shortly before Harry's.
+      </p>
+
+================================================================================
+File: 9.yaml | Paragraph 1280
+================================================================================
+1280:
+  text: |-
+    (In the back of his mind, he wondered if the Sorting Hat was genuinely
+    <em>conscious</em> in the sense of being aware of its own awareness, and if so,
+    whether it was satisfied with only getting to talk to eleven-year-olds once per
+    year. Its song had implied so: <em>Oh, I'm the Sorting Hat and I'm okay, I sleep
+    all year and I work one day...</em>)
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/9z2slg/sorting_hat_song/ea9pgpp/
+    date: 2018/11/22
+    score: 10
+    text: |
+      <p>I only ever wrote just the one line.</p>
+
+================================================================================
+File: 10.yaml | Paragraph 1349
+================================================================================
+1349:
+  text: |-
+    The Hat's thought was almost a whisper. <em>"I cannot speak of the others to you
+    - but do you think that you are the first potential Dark Lord to pass under my
+    brim? I cannot know the individual cases, but I can know this: Of those who did
+    not intend evil from the very beginning, some of them listened to my warnings,
+    and went to Houses where they would find happiness. And some of them... some of
+    them did not."</em>
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/778or6/the_bayesian_sorting_hat/dok8jt5/
+    date: 2017/10/18
+    score: 48
+    text: |
+      <p>
+        FYI, the Sorting Hat in HPMOR makes its predictions of future outcomes by
+        something more akin to distance-weighted k-nearest-neighbor, using what
+        present and past Headmasters have known as the outcome for past students who
+        passed through it.
+      </p>
+      <p>
+        Of course that particular prediction algorithm can deliver weird results in
+        some special cases, like if the boy under your brim seems insanely close in
+        the metric space to exactly one past student, whose outcome is "worst Dark
+        Wizard in centuries".
+      </p>
+
+================================================================================
+File: 10.yaml | Paragraph 1355
+================================================================================
+1355:
+  text: |-
+    <em>"Yes, you are. You really,</em> really <em>are."</em>
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/ddc7u5/time_created_voldemort/f2hclrp/
+    date: 2019/10/04
+    score: 28
+    text: |
+      <p>
+        Incidentally, and this was always the intended explanation, the real reason
+        the Hat is so worried about Harry is that... the Hat uses a kernel algorithm
+        to extrapolate outcomes from previous students. /mike drop.
+      </p>
+
+================================================================================
+File: 10.yaml | Paragraph 1424
+================================================================================
+1424:
+  text: |-
+    "Just kidding! RAVENCLAW!"
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/4h2t8c/the_incident_with_the_sorting_hat_spoilers_all/d3312wg/
+    date: 2016/05/12
+    score: 8
+    text: |
+      <p>
+        It was either the Sorting Hat or Dumbledore. Professor Quirrell would have
+        left him in Slytherin, <em>of course</em>.
+      </p>
+
+
+================================================================================
+File: 12.yaml | Paragraph 1570
+================================================================================
+1570:
+  text: |-
+    Harry was still trying to process everything that had happened during the
+    Incident with the Sorting Hat. Not the least of which was what had happened the
+    instant Harry had lifted the Hat off his head; in that moment, he'd heard a tiny
+    whisper as though from nowhere, something that sounded oddly like English and a
+    hiss at the same time, something that had said, "<em>Ssalutations from
+    Sslytherin to Sslytherin: if you would sseek my ssecretss, sspeak to my
+    ssnake."</em>
+  notes:
+  - type: original
+    date: 2025/04/19
+    text: |
+      <p>
+        Both "Slytherins" refer not to members of the house, but rather heirs of the
+        Slytherin bloodline. The snake in question will appear in
+        <a class="link-hpmor" href="https://hpmor.info/chapter/111/#18379">Chapter 111</a>.
+      </p>
+
+================================================================================
+File: 12.yaml | Paragraph 1670
+================================================================================
+1670:
+  text: |-
+    "Quidditch trials will be held in the second week of the term. Anyone interested
+    in playing for their house teams should contact Madam Hooch. Anyone interested
+    in reformulating the entire game of Quidditch should contact Harry Potter."
+  notes:
+  - type: reddit
+    author: mathegist
+    url: https://www.reddit.com/r/HPMOR/comments/yeq5g/how_did_dumbledore_know_about_harrys_quidditch/c5vozof/
+    date: 2012/08/19
+    score: 3
+    text: |
+      <p>
+        We know Ron talked to Fred and George on Platform 9 3/4 right after talking
+        to Harry; see Chapter 25: "Ron had told them about Harry being weird and evil"
+      </p>
+      <p>
+        There's also evidence that Dumbledore is in the habit of legilimency on Fred
+        and George. It's suggested in Fred & George's aftermath in Chapter 63, "It
+        wasn't that the Headmaster had popped up out of nowhere and was staring at
+        them with a stern expression. Dumbledore was always doing that", and more
+        heavily implied in Chapter 79, with Dumbledore knowing about the marauder's map.
+      </p>
+      <p>
+        This suggests: Ron told F&G about Harry wanting to do away with the snitch, and
+        Dumbledore read F&G's minds shortly after they arrived at Hogwarts that evening.
+      </p>
+      <p>
+        This hypothesis also paints a clearer picture of the Skeeter prank: We know Fred
+        and George had help from someone, because they were obliviated afterwards.
+        Dumbledore had some reason to give them an expensive gift after the fact.
+        Dumbledore also has a motive to smack down Skeeter, because she belongs to
+        Lucius. If he reads their minds, then he'd be in a position to help them memory
+        charm Skeeter.
+      </p>
+
+================================================================================
+File: 12.yaml | Paragraph 1681
+================================================================================
+1681:
+  text: |-
+    "Salutations, my young apprentices," Professor Quirrell said in a dry, confident
+    tone. "We all know that Hogwarts tends to suffer a certain <em>misfortune</em>
+    in its selections for this position, and no doubt many of you are already
+    wondering what doom shall befall me this year. I assure you, that doom is not to
+    be my incompetence." He smiled thinly. "Believe it or not, I have long wished to
+    someday try my hand as the Professor of Defence Against the Dark Arts here at
+    the Hogwarts School of Witchcraft and Wizardry. The first to teach this class
+    was Salazar Slytherin himself, and as late as the fourteenth century it was
+    traditional for the greatest fighting wizards of every persuasion to try their
+    hands at teaching here. Past Professors of Defence have included not just the
+    legendary wandering hero Harold Shea but also the quote undying unquote Baba
+    Yaga, yes, I see some of you are still shuddering at the sound of her name even
+    though she's been dead for six hundred years. That must have been an interesting
+    time to attend Hogwarts, don't you think?"
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/d8h4wz/subtle_hint_to_quirrells_identity/f1jm6cv/
+    date: 2019/09/26
+    score: 16
+    text: |
+      <p>The Defense Professor's debut:</p>
+      <blockquote>
+        <p>
+          "Salutations[1], my young apprentices[2]," Professor Quirrell said in a dry,
+          confident tone. "We all know that Hogwarts tends to suffer a certain
+          <em>misfortune</em> in its selections for this position, and no doubt many
+          of you are already wondering what doom shall befall me this year. I assure
+          you, that doom is not to be my incompetence." He smiled thinly. "Believe it
+          or not, I have long wished to someday try my hand as the Professor of
+          Defence Against the Dark Arts here at the Hogwarts School of Witchcraft and
+          Wizardry.[3] The first to teach this class was Salazar Slytherin himself[4],
+          and as late as the fourteenth century it was traditional for the greatest
+          fighting wizards of every persuasion to try their hands at teaching here.
+          Past Professors of Defence have included not just the legendary wandering
+          hero Harold Shea but also the quote undying unquote Baba Yaga[5], yes, I see
+          some of you are still shuddering at the sound of her name even though she's
+          been dead for six hundred years. That must have been an interesting time to
+          attend Hogwarts, don't you think?[6]"
+        </p>
+      </blockquote>
+      <p>
+        [1] The same phrase used by Salazar Slytherin's Parseltongue greeting under
+        the Sorting Hat, as described in that same chapter 12.
+      </p>
+      <p>[2] Originally said by a Sith Lord.</p>
+      <p>[3] Tom Riddle in canon applied for the position of Defense Professor.</p>
+      <p>[4] Speaker praises Salazar Slytherin.</p>
+      <p>
+        [5] It's established that previous Dark Lords have taught Defense at Hogwarts.
+      </p>
+      <p>
+        [6] Speaker thinks it would be interesting to be at Hogwarts in a time when a
+        Dark Lord was teaching Defense there.
+      </p>
+      <p>
+        Consider it a lesson in illusion of transparency and hindsight bias, but it
+        genuinely did not occur to me that people would not simply read this as Tom
+        Riddle talking.
+      </p>
+  - type: reddit
+    author: thecommexokid
+    url: https://reddit.com/r/HPMOR/comments/2br10g/a_longrunning_joke_of_ours_might_actually_have/
+    date: 2014/07/25
+    score: 124
+    text: |
+      <!-- SC_OFF -->
+      <div class="md">
+        <blockquote>
+          <p>
+            Past Professors of Defence have included not just the legendary wandering
+            hero Harold Shea but also the
+            <strong>quote undying unquote Baba Yaga</strong>, yes, I see some of you
+            are still shuddering at the sound of her name even though she's been
+            <strong>dead for six hundred years</strong>.
+          </p>
+        </blockquote>
+        <p>–Chapter 12</p>
+        <blockquote>
+          <p>
+            Rumored to be a modern alias of the
+            <strong>six-century-old</strong> Nicholas Flamel, the only known wizard to
+            succeed at the incredibly difficult alchemical procedure for creating the
+            Philosopher's Stone,
+          </p>
+        </blockquote>
+        <p>–Chapter 87</p>
+        <blockquote>
+          <p>
+            J. K. Rowling created certain roles and assigned them genders. The story
+            of HPMOR is built around the parallel-universe versions of those roles,
+            and
+            <strong
+              >those roles (with one exception) retain whichever genders they had in
+              canon</strong
+            >.
+          </p>
+        </blockquote>
+        <p>
+          –<a href="http://hpmor.com/a-rant-thereof/"
+            >A rant on HPMOR's anti-feminism or lack threrof</a
+          >
+        </p>
+        <blockquote>
+          <p>
+            <em>Sstone's ssuppossed maker wass not one who made it.</em>
+            <strong
+              ><em
+                >One who holdss it now, wass not born to name now ussed.</em
+              ></strong
+            >
+          </p>
+        </blockquote>
+        <p>–The new chapter</p>
+        <p>Nicholas Flamel is Baba Yaga.</p>
+      </div>
+      <!-- SC_ON -->
+
+================================================================================
+File: 14.yaml | Paragraph 2070
+================================================================================
+2070:
+  text: |-
+    <em>No doubt you are already thinking of all manner of wonderful pranks, as your
+    father committed in his day. If his full misdeeds were known, every woman in
+    Gryffindor would gather to desecrate his grave. I shall not try to stop history
+    from repeating, but be MOST careful not to reveal yourself. If Dumbledore saw a
+    chance to possess one of the Deathly Hallows, he would never let it escape his
+    grasp until the day he died.</em>
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/3g6mgd/spoilers_all_14_who_gave_harry_that_magical/ctx5109/
+    date: 2015/08/09
+    score: 10
+    text: |
+      <p>
+        Dumbledore. Hence the wording, "If Dumbledore saw a chance to possess one of
+        the Deathly Hallows, he would never let it escape his grasp until the day he
+        died" -&gt; Dumbledore has <em>one</em> of the Deathly Hallows and knows he
+        must not relinquish that one until death.
+      </p>
+
+================================================================================
+File: 16.yaml | Paragraph 2244
+================================================================================
+2244:
+  text: |-
+    Harry frowned. "Hold on." His hand went into his pouch. "Timetable." He looked
+    over the parchment. "Defence, 2:30pm, and right now it's..." Harry looked at his
+    mechanical watch, which read 11:23. "2:23, unless I've lost track of time. Did
+    I?" If he had, well, Harry knew how to get to whatever lesson he was
+    <em>supposed</em> to be at. God he loved his Time-Turner and someday, when he
+    was old enough, they would get married.
+  notes:
+  - type: original
+    date: 2025/04/19
+    text: |
+      <p>
+        The watch reads 11:23 (pm) because Harry has used his Time Turner three
+        times, going back two, two, and five hours.
+      </p>
+
+================================================================================
+File: 16.yaml | Paragraph 2263
+================================================================================
+2263:
+  text: |-
+    "We'd better go get our seats," Draco said. He hesitated, straightened a bit,
+    spoke a bit more fomally. "But I do want to continue our last conversation and I
+    accept your conditions."
+  notes:
+  - type: original
+    date: 2025/04/19
+    text: |
+      <p>
+        The conditions, from
+        <a class="link-hpmor" href="https://hpmor.info/chapter/7/#998">Chapter 7</a>,
+        were that Harry deal with Draco directly, leaving Lucius out of it.
+      </p>
+
+================================================================================
+File: 17.yaml | Paragraph 2453
+================================================================================
+2453:
+  text: |-
+    DO NOT MESS WITH TIME
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: 
+      https://reddit.com/r/HPMOR/comments/56edjn/what_happens_if_someone_ignores_that_advice/d8jm9zr/
+    date: 2016/10/08
+    score: 11
+    text: |
+      <blockquote>
+        <p>
+          The "DON'T MESS WITH TIME" paper could have said anything, but Eliezer
+          thought it'd be funniest to make it say "DON'T MESS WITH TIME", so that's
+          what it said.
+        </p>
+      </blockquote>
+      <p>
+        Oh, ye of far too little faith. The paper said "DO NOT MESS WITH TIME" because
+        time travel in HPMOR works by a global post-selection rule, and this local
+        outcome prevented the future paradoxes Harry would have produced if he had
+        been less scared out of messing with Time. In other words,
+        <em>globally</em> consistent timelines had to contain a
+        <em>locally</em> self-consistent loop saying "DO NOT MESS WITH TIME" or
+        something along those lines, instead of a <em>locally</em> consistent loop
+        with the prime factors being written down, because apparent success in that
+        experiment would have caused Harry to try weirder experiments later.
+      </p>
+
+================================================================================
+File: 17.yaml | Paragraph 2588
+================================================================================
+2588:
+  text: |-
+    The Remembrall was glowing bright red in his hand, blazing like a miniature sun
+    that cast shadows on the ground in broad daylight.
+  draw-line-after-paragraph: true
+  notes:
+  - type: reddit
+    author: '[deleted]'
+    url: https://reddit.com/r/HPMOR/comments/2ykv8u/remembrall/cpagluh/
+    date: 2015/03/10
+    score: 32
+    text: |
+      <p>
+        The current theory is that it reacted because he forgot all of his memories as
+        Tom Riddle.
+      </p>
+    replies:
+    - type: reddit
+      author: EliezerYudkowsky
+      url: https://reddit.com/r/HPMOR/comments/2ykv8u/remembrall/cpahko2/
+      date: 2015/03/10
+      score: 57
+      text: |
+        <p>Intended interpretation affirmed.</p>
+
+================================================================================
+File: 17.yaml | Paragraph 2611
+================================================================================
+2611:
+  text: |-
+    "That puzzles me as well," Professor McGonagall said slowly. "If it were that
+    simple, I would think that the courts would use Remembralls, and they do not. I
+    shall look into it, Mr. Potter." She sighed. "You can go now."
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/1ks00xb/minor_plothole/mtlkzxb/
+    date: 2025/05/22
+    score: 7
+    text: |-
+      <p>She looked into it and didn&#39;t find anything of interest; which wasn&#39;t something she thought she needed to report to Harry, though she&#39;d have answered if he asked.</p>
+
+================================================================================
+File: 17.yaml | Paragraph 2646
+================================================================================
+2646:
+  text: |-
+    There were tiny metal mechanisms that whirred or ticked or slowly changed shape
+    or emitted little puffs of smoke. There were dozens of mysterious fluids in
+    dozens of oddly shaped containers, all bubbling, boiling, oozing, changing
+    color, or forming into interesting shapes that vanished half a second after you
+    saw them. There were things that looked like clocks with many hands, inscribed
+    with numbers or in unrecognisable languages. There was a bracelet bearing a
+    lenticular crystal that sparkled with a thousand colors, and a bird perched atop
+    a golden platform, and a wooden cup filled with what looked like blood, and a
+    statue of a falcon encrusted in black enamel. The wall was all hung with
+    pictures of people sleeping, and the Sorting Hat was casually poised on a
+    hatrack that was also holding two umbrellas and three red slippers for left
+    feet.
+  notes:
+  - type: original
+    date: 2024/12/29
+    author: hpmor.info
+    text: |
+      <p>
+        A falcon encrusted in black enamel is a clear reference to
+        <i>The Maltese Falcon</i>
+      </p>
+
+================================================================================
+File: 17.yaml | Paragraph 2706
+================================================================================
+2706:
+  text: |-
+    Dumbledore started laughing. Laughing a lot harder than Harry would expect,
+    almost howling. It seemed positively <em>undignified.</em> An ancient and
+    powerful wizard ought to chuckle in deep booming tones, not laugh so hard he was
+    gasping for breath. Harry had once literally fallen out of his chair while
+    watching the Marx Brothers movie <em>Duck Soup,</em> and that was how hard
+    Dumbledore was laughing now.
+  notes:
+  - type: original
+    date: 2020/04/30
+    text: |
+      <p>
+        Dumbledore explains later: "How I laughed when I realised it! When I saw you
+        had made a Good Voldemort to oppose the evil one - ah, how I laughed!"
+        <a class="link-hpmor" href="https://hpmor.info/chapter/110/#18322">Chapter 110</a>
+      </p>
+  - type: reddit
+    author: EliezerYudkowsky
+    url: 
+      https://reddit.com/r/HPMOR/comments/60j19s/who_sent_harry_the_cloak_spoilers_all/df9xje1/
+    date: 2017/03/22
+    score: 19
+    text: |
+      <p>
+        You shall also observe that Dumbledore <em>completely</em> changes strategies
+        after Harry says he's trying to corrupt Draco to the Light Side, and
+        Dumbledore realizes that he is dealing not with another young Tom Riddle but
+        rather the Good Voldemort.
+      </p>
+
+================================================================================
+File: 17.yaml | Paragraph 2723
+================================================================================
+2723:
+  text: |-
+    "Not so far as I know," said Dumbledore. "But I advise you with the greatest
+    possible stringency to keep it close about your person at all times."
+  notes:
+  - type: original
+    date: 2025/04/19
+    text: |
+      <p>
+        Harry will use the rock in
+        <a class="link-hpmor" href="https://hpmor.info/chapter/89/#15840">Chapter 89</a>
+      </p>
+
+================================================================================
+File: 17.yaml | Paragraph 2758
+================================================================================
+2758:
+  text: |-
+    "I'm feeling thirsty," Harry said, "and that is not at all a good sign."
+  notes:
+  - type: note_needed
+    date: 2025/05/23
+    author: ''
+    origin: https://github.com/DominikPeters/hpmor.info/issues/14
+    text: |-
+      Why is it a bad sign that Harry is feeling thirsty?
+  - type: original
+    date: 2025/08/11
+    author: Tyna
+    origin: https://github.com/DominikPeters/hpmor.info/issues/23
+    text: |-
+      It is a bad sign that Harry is feeling thirsty because he still has cans of Comed-Tea with him. He realised in <a class="link-hpmor" href="https://hpmor.info/chapter/14/">Chapter 14</a> that the drink makes him feel thirsty when a comedic event bad enough to cause a spit-take is about to happen.
+
+================================================================================
+File: 17.yaml | Paragraph 2767
+================================================================================
+2767:
+  text: |-
+    That was the exact point at which Harry realised that the Headmaster of Hogwarts
+    <em>was,</em> in fact, crazy.
+  notes:
+  - type: original
+    date: 2025/04/19
+    text: |
+      <p>
+        In
+        <a class="link-hpmor" href="https://hpmor.info/chapter/119/#19126">Chapter 119</a>,
+        we learn that Dumbledore's note somehow showed Lily how to help her sister.
+      </p>
+
+================================================================================
+File: 17.yaml | Paragraph 2799
+================================================================================
+2799:
+  text: |-
+    "Oh, the little fiddly things?" said Dumbledore. "They came with the
+    Headmaster's office and I have absolutely no idea what most of them do. Although
+    <em>this</em> dial with the eight hands counts the number of, let's call them
+    sneezes, by left-handed witches within the borders of France, you would not
+    believe how much work it took to nail that down. And <em>this</em> one with the
+    golden wibblers is my own invention and Minerva is never, ever going to figure
+    out what it's doing."
+  notes:
+  - type: reddit
+    author: ArisKatsaris
+    url: 
+      https://reddit.com/r/HPMOR/comments/36qzc8/what_are_those_things_in_dumbledores_office/crgi1f7/
+    date: 2015/05/21
+    score: 33
+    text: |
+      <p>
+        Probably the invention of a jealous French wizard husband that was trying to
+        figure out if his own left-handed wife was being faithful, but it ended up
+        unspecific enough to count all left-handed witches within France.
+      </p>
+    replies:
+    - type: reddit
+      author: EliezerYudkowsky
+      url: 
+        https://reddit.com/r/HPMOR/comments/36qzc8/what_are_those_things_in_dumbledores_office/crhb5q4/
+      date: 2015/05/22
+      score: 32
+      text: |
+        <p>Canonized.</p>
+  - type: reddit
+    author: -Mountain-King-
+    url: https://reddit.com/r/HPMOR/comments/2ykzfb/chapter_119/cpamj7k/
+    date: 2015/03/10
+    score: 155
+    text: |
+      <p>
+        It casts a minor <em>confundus</em> on Minerva every time she wonders what it
+        might be doing. Literally, she will never, ever find out what it's doing.
+      </p>
+    replies:
+    - type: reddit
+      author: EliezerYudkowsky
+      url: https://reddit.com/r/HPMOR/comments/2ykzfb/chapter_119/cparrxp/
+      date: 2015/03/10
+      score: 111
+      text: |
+        <p>Sounds legit.</p>
+
+================================================================================
+File: 17.yaml | Paragraph 2831
+================================================================================
+2831:
+  text: |-
+    "They are?" Dumbledore leaned forward, gazing at him intently. "What do they
+    do?"
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/2ykzfb/chapter_119/cpala1d/
+    date: 2015/03/10
+    score: 148
+    text: |
+      <p>
+        <a
+          href="#s"
+          title="Legilimency check complete ('gazing at him intently').  Happy new home found.  Old wizard still sad about what he's done."
+          >Hint explained</a
+        >
+      </p>
+
+================================================================================
+File: 17.yaml | Paragraph 2833
+================================================================================
+2833:
+  text: |-
+    "Ah, good, that's good to hear," said Dumbledore, leaning back again. He smiled
+    in a sad sort of way. "I apologise for <em>that</em>, then. Now where was I? Ah,
+    yes. I'm sorry to say, Harry, that I am responsible for virtually everything bad
+    that has ever happened to you. I know that this will probably make you very
+    angry."
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/2ykzfb/chapter_119/cpakocb/
+    date: 2015/03/10
+    score: 134
+    text: |
+      <p>
+        Maybe you couldn't have guessed the pet rock without Tease of God info, but I
+        think I pretty thoroughly foreshadowed Dumbledore having messed with Harry's
+        entire life, with hints up to and including having Dumbledore come directly
+        out and say it.
+      </p>
+
+================================================================================
+File: 19.yaml | Paragraph 3324
+================================================================================
+3324:
+  text: |-
+    "The <em>term,</em> Mr. Potter, is <em>Avada Kedavra,</em>" Professor Quirrell's
+    voice sounded a bit sharp for some reason, "and no, that was <em>not</em> on the
+    list I made at age thirteen. Would you care to guess again?"
+  notes:
+  - type: original
+    date: 2020/05/03
+    text: |
+      <p>
+        His voice is sharp for the reason given in
+        <a class="link-hpmor" href="https://hpmor.info/chapter/108/#17984">Chapter 108</a>
+      </p>
+
+================================================================================
+File: 19.yaml | Paragraph 3361
+================================================================================
+3361:
+  text: |-
+    Professor Quirrell's face turned bitter. "You are wondering where this marvelous
+    <em>dojo</em> is, and whether you can study there. You cannot. For not long
+    afterward, another would-be student came to that hidden place, to that remote
+    mountain. He-Who-Must-Not-Be-Named."
+  notes:
+  - type: reddit
+    author: entobat
+    url: https://reddit.com/r/HPMOR/comments/65udww/a_line_i_found_funny_rereading_ch_20/dh17e9o/
+    date: 2017/05/02
+    score: 6
+    text: |
+      <p>
+        But you shouldn't leave the source of your power lying around! Tom Riddle
+        knows that, even if Lord Voldemort doesn't.
+      </p>
+      <p>I think the implied timeline of events is:</p>
+      <ul>
+        <li><p>Monroe goes to the monastery, and gets training.</p></li>
+        <li>
+          <p>
+            Monroe decides the monastery is too powerful to be left around for his
+            enemies to use.
+          </p>
+        </li>
+        <li>
+          <p>
+            Lord Voldemort shows up to the monastery, as Quirrell describes, but
+            slaughters everyone (not everyone less one survivor).
+          </p>
+        </li>
+        <li>
+          <p>
+            David Monroe, the "sole survivor" who "was there" (who exactly can
+            contradict him on that?), spreads the tale in the form that Professor
+            Quirrell later tells his Defense class.
+          </p>
+        </li>
+      </ul>
+      <p>Paging <a href="/u/EliezerYudkowsky">/u/EliezerYudkowsky</a>?</p>
+    replies:
+    - type: reddit
+      author: EliezerYudkowsky
+      url: https://reddit.com/r/HPMOR/comments/65udww/a_line_i_found_funny_rereading_ch_20/dh22i31/
+      date: 2017/05/02
+      score: 13
+      text: |
+        <p>
+          That's the intended interpretation; modulo that it wasn't <em>just</em> Rule
+          Twelve, it was also how Tom Riddle was taught to lose. He did not learn
+          <em>exactly</em> what the master hoped. He understood exactly what the lesson
+          was meant to teach, for he is not foolish, but that is not the same as
+          agreeing with the originally intended lesson.
+        </p>
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/65udww/a_line_i_found_funny_rereading_ch_20/dh8asid/
+    date: 2017/05/06
+    score: 8
+    text: |
+      <p>
+        If Tom had destroyed the monastery on the spot, as Voldemort pretended to do,
+        he would indeed have shown weakness. As it is, by Tom's lights, he showed his
+        patience, got his revenge eventually, removed the source of knowledge from
+        potential competitors, and built another brick in the story of Voldemort that
+        would cause people to underestimate the real Tom in a way he could predict.
+      </p>
+
+================================================================================
+File: 20.yaml | Paragraph 3606
+================================================================================
+3606:
+  text: |-
+    "Don't be," said Professor Quirrell. "It was long ago, and I resolved my
+    parental issues to my own satisfaction. So you are held back by the thought of
+    your parents' disapproval? Does that mean that if they died in an accident,
+    there would be nothing left to stop you from -"
+  notes:
+  - type: reddit
+    author: CWRules
+    url: https://reddit.com/r/HPMOR/comments/g9f5r6/i_love_the_significant_little_details_you_only/fou6zqt/
+    date: 2020/04/28
+    score: 41
+    text: |
+      <p>
+        I wonder if Harry ever realizes how close he came to getting his parents
+        killed here?
+      </p>
+
+================================================================================
+File: 20.yaml | Paragraph 3638
+================================================================================
+3638:
+  text: |-
+    Professor Quirrell raised his wand and said something that Harry's ears and mind
+    couldn't grasp at all, words that bypassed awareness and vanished into oblivion.
+  notes:
+  - type: reddit
+    author: user1444
+    url: https://reddit.com/r/HPMOR/comments/3g95gb/spoilers_all_can_he_cast_ak_wordlessly/ctyjy34/
+    date: 2015/08/10
+    score: 5
+    text: |
+      <p>
+        Hey, I was wondering if you could confirm one other small thing that's been
+        nagging at me.
+      </p>
+      <p>
+        When Quirrell uses the starlight spell, Harry notes that he can't even
+        comprehend the incantation. I recall a few other similar situations in the
+        story where he couldn't understand the spells either. The one I mentioned
+        against the auror, another was Dumbledore's giant fire bird at Azkaban I
+        believe.
+      </p>
+      <p>
+        My question is, was this audio distortion of incantations meant to be an
+        effect of the interdict of Merlin? In all those cases it certainly seems
+        plausible to me that those particular magic's were that powerful.
+      </p>
+    replies:
+    - type: reddit
+      author: EliezerYudkowsky
+      url: https://reddit.com/r/HPMOR/comments/3g95gb/spoilers_all_can_he_cast_ak_wordlessly/ctyycvu/
+      date: 2015/08/11
+      score: 18
+      text: |
+        <p>
+          The original intent was that Quirrell's undead state is confusing the "from
+          one living mind to another" clause.
+        </p>
+
+================================================================================
+File: 20.yaml | Paragraph 3752
+================================================================================
+3752:
+  text: |-
+    Harry quickly took his leave.
+  notes:
+  - type: original
+    date: 2020/04/30
+    text: |
+      <p>
+        When it was posted, this chapter had a closing sentence showing the Defense
+        Professor giving an evil smile or laughter. In response to complaints that
+        this was not subtle enough, the sentence was removed. See
+        <a
+          class="link-reddit"
+          href="https://www.reddit.com/r/HPMOR/comments/1cppqq/what_was_the_deleted_closing_sentence_of_chapter/"
+          >https://www.reddit.com/r/HPMOR/comments/1cppqq/what_was_the_deleted_closing_sentence_of_chapter/</a
+        >.
+      </p>
+
+
+================================================================================
+File: 21.yaml | Paragraph 3978
+================================================================================
+3978:
+  text: |-
+    ...gotten acquainted with a boy raised by Darth Vader, become friends with the
+    three most infamous pranksters in Hogwarts, met Hermione, then there'd been the
+    Incident with the Sorting Hat... Monday he'd been given a time machine to treat
+    his sleep disorder, gotten a legendary invisibility cloak from an unknown
+    benefactor, rescued seven Hufflepuffs by staring down five scary older boys one
+    of whom had threatened to break his finger, realized that he possessed a
+    mysterious dark side, learned to cast <em>Frigideiro</em> in Charms class, and
+    gotten started on his rivalry with Hermione... Tuesday had introduced Astronomy
+    taught by Professor Aurora Sinistra who was nice, and History of Magic taught by
+    a ghost who ought to be exorcised and replaced with a tape recorder...
+    Wednesday, he'd been pronounced the Most Dangerous Student in the Classroom...
+    Thursday, let's not even think about Thursday... Friday, the Incident in Potions
+    Class, followed by his blackmailing the Headmaster, followed by the Defense
+    Professor having him beaten up in class, followed by the Defense Professor
+    turning out to be the most awesome human being who still walked the face of the
+    Earth... Saturday he'd lost a bet and gone on his first date and started
+    redeeming Draco... and then this morning Professor Trelawney's unheard prophecy
+    might or might not indicate that an immortal Dark Lord was about to attack
+    Hogwarts.
+  notes:
+  - type: original
+    date: 2024/12/29
+    author: hpmor.info
+    text: |
+      <p>
+        At this point, we've only met Fred and George, but in Chapter 25 we'll learn
+        that the third prankster referred to here is Lee Jordan.
+      </p>
+
+
+================================================================================
+File: 22.yaml | Paragraph 4032
+================================================================================
+4032:
+  text: |-
+    You couldn't <em>really</em> need to say 'Wingardium Leviosa' in exactly the
+    right way in order to levitate something, because, come on, 'Wingardium
+    Leviosa'? The universe was going to check that you said 'Wingardium Leviosa' in
+    exactly the right way and otherwise it wouldn't make the quill float?
+  notes:
+  - type: reddit
+    author: frozenLake123
+    url: https://reddit.com/r/HPMOR/comments/4r8784/source_of_witchcraft/d4zdjt4/
+    date: 2016/07/04
+    score: 8
+    text: |
+      <p>
+        I would guess that there is probably some sort of hashing system set up: As
+        in, specific random words paired with specific random gestures would result in
+        specific random spell effects. While a swish and flick while saying Wingardium
+        Leviosa can get an object to float, there is likely a far more difficult to
+        pronounce word that requires holding steady.
+      </p>
+    replies:
+    - type: reddit
+      author: EliezerYudkowsky
+      url: https://reddit.com/r/HPMOR/comments/4r8784/source_of_witchcraft/d4zkxev/
+      date: 2016/07/04
+      score: 17
+      text: |
+        <p>
+          Yep, inventing a spell is really 'finding' it in a big spell-space. The
+          particular point found, among many alternatives, depends on the sort of words
+          <em>you</em> look for.
+        </p>
+        <p>
+          Alternatively, when a spell is invented for the first time, it gets carved
+          into the system of magic at that time.
+        </p>
+        <p>
+          Those were my own two running hypotheses for "Wingardium Leviosa". As a
+          distant third, that the laws of magic depend on a widespread averaged
+          expectation.
+        </p>
+
+================================================================================
+File: 25.yaml | Paragraph 4742
+================================================================================
+4742:
+  text: |-
+    "Intermittent one fixed itself again. Other one's same as ever."
+  notes:
+  - type: reddit
+    author: 11235813213455away
+    url: https://reddit.com/r/HPMOR/comments/2wlnjn/intermittent_error_of_the_map_ch_108/cos034t/
+    date: 2015/02/20
+    score: 55
+    text: |
+      <p>
+        Or when Riddle intermittently stops possessing QQ and his name shows as QQ on
+        the map.
+      </p>
+    replies:
+    - type: reddit
+      author: EliezerYudkowsky
+      url: https://reddit.com/r/HPMOR/comments/2wlnjn/intermittent_error_of_the_map_ch_108/cos0sn6/
+      date: 2015/02/20
+      score: 79
+      text: |
+        <p>
+          That was my intended interpretation. (I affirm this now because I don't think
+          the remaining text provides any more clues about this particular question.)
+        </p>
+
+================================================================================
+File: 25.yaml | Paragraph 4779
+================================================================================
+4779:
+  text: |-
+    "Miss Skeeter," said Quirrell, "I had hoped to find some lever that would prove
+    persuasive. Yet I find that I cannot deny myself the pleasure of simply crushing
+    you."
+  notes:
+  - type: original
+    date: 2020/04/30
+    text: |
+      <p>
+        This is exactly what he will do in
+        <a class="link-hpmor" href="https://hpmor.info/chapter/26/#5145">Chapter 26</a>
+      </p>
+
+================================================================================
+File: 25.yaml | Paragraph 4781
+================================================================================
+4781:
+  text: |-
+    Quirrell swept her a small bow, and then walked past. "Goodbye, Rita Skeeter,"
+    said his voice from behind her.
+  notes:
+  - type: original
+    date: 2020/04/30
+    text: |
+      <p>
+        Quirrell has a habit of saying formal farewells to people he plans to kill
+        soon.
+        <a
+          class="link-reddit"
+          href="https://www.reddit.com/r/HPMOR/comments/8k4q8b/when_and_why_did_quirrell_decide_to/dz5unwp/"
+          >https://www.reddit.com/r/HPMOR/comments/8k4q8b/when_and_why_did_quirrell_decide_to/dz5unwp/</a
+        >
+      </p>
+
+================================================================================
+File: 26.yaml | Paragraph 5046
+================================================================================
+5046:
+  text: |-
+    They were about to eat lunch in Mary's Place, which Professor Quirrell had said
+    was known to him as one of the best restaurants in Diagon Alley, especially for
+    - his voice had dropped meaningfully - <em>certain purposes.</em>
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/ey76lx/we_want_mor_chapters_2526_discussion_thread/fhmed0b/
+    date: 2020/02/14
+    score: 6
+    text: |
+      <p>
+        It’s actually a reference to Callahan’s Place. I hadn’t heard of Mary’s Room
+        at the time!
+      </p>
+
+================================================================================
+File: 26.yaml | Paragraph 5145
+================================================================================
+5145:
+  text: |-
+    Nestled up against the wall, where Professor Quirrell had stumbled, glistened
+    the crushed remains of a beautiful blue beetle.
+  notes:
+  - type: original
+    date: 2020/04/30
+    text: |
+      <p>
+        The beetle is the animagus form of Rita Skeeter. Quirrell threatened her in
+        <a class="link-hpmor" href="https://hpmor.info/chapter/25/#4779">Chapter 25</a>.
+      </p>
+
+
+================================================================================
+File: 27.yaml | Paragraph 5160
+================================================================================
+5160:
+  text: |-
+    ...but they must have looked elsewhere and found <em>someone</em> to help them
+    do <em>something</em> illegal, or they wouldn't have agreed to be Obliviated
+    afterward.
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/cd3rjr/rita_skeeter_conspiracy/etvq543/
+    date: 2019/07/15
+    score: 12
+    text: |
+      <p>I did not intend to depict Dumbledore nor Quirrell as being involved.</p>
+
+================================================================================
+File: 27.yaml | Paragraph 5169
+================================================================================
+5169:
+  text: |-
+    ...meanwhile Dumbledore had happened to sneeze while passing them in the
+    hallway, and a small package had accidentally dropped out of his pockets, and
+    inside had been two matched wardbreaker's monocles of <em>incredible</em>
+    quality. The Weasley twins had tested their new monocles on the "forbidden"
+    third-floor corridor, making a quick trip to the magic mirror and back, and they
+    hadn't been able to see <em>all</em> the detection webs clearly, but the
+    monocles had shown a <em>lot</em> more than they'd seen the first time.
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/61zwlw/wardbreaker_monocles_spoilers_all/dflexf9/
+    date: 2017/03/30
+    score: 13
+    text: |
+      <p>
+        The literary point of the passage is to establish and foreshadow that (a) the
+        passage is traversable by students (b) the endpoint is a mirror rather than
+        something else (c) it is full of far more sensors than would be required if it
+        were just a playground.
+      </p>
+
+================================================================================
+File: 30.yaml | Paragraph 6062
+================================================================================
+6062:
+  text: |-
+    Harry, after considering alternate choices such as the 501st Provisional
+    Battalion and Harry's Minions o' Doom, had decided that his army would be known
+    by the simple and dignified appellation of the Chaos Legion.
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/38wm3d/reread_discussion_ch_30_working_in_groups_pt_1/crzcaxa/
+    date: 2015/06/08
+    score: 5
+    text: |
+      <p>It's a reference to Falkenberg's Legion.</p>
+
+================================================================================
+File: 32.yaml | Paragraph 6376
+================================================================================
+6376:
+  text: |-
+    "Well, the easiest way would've been to borrow money from Draco Malfoy," said
+    Harry.
+  notes:
+  - type: reddit
+    author: Gwiny
+    url: https://reddit.com/r/HPMOR/comments/9sbjlh/questions_from_translator_wet_grape_strength_as_a/e8nk4oc/
+    date: 2018/10/29
+    score: 40
+    text: |
+      <p>
+        I disagree about the last one. Quirrel here thinks that borrowing money from
+        Draco Malfoy is an incredibly stupid idea, so stupid, that Quirrel had though
+        Harry is joking. Harry sees that Quirrel thinks it is an incredibly stupid
+        idea, and that causes him reevaluate his actions (because he already borrowed
+        money from Draco Malfoy). Rephrasing that dialogue would be something like
+      </p>
+      <p>— I would borrow money from Draco Malfoy</p>
+      <p>— Are you joking, mister Potter?</p>
+      <p>— Oh, so borrowing money from Draco Malfoy is not a good idea?</p>
+
+================================================================================
+File: 34.yaml | Paragraph 6837
+================================================================================
+6837:
+  text: |-
+    "No," said Professor Quirrell, "I mean that I shall grant three wishes using a
+    single plot."
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/3kx7cj/how_quirrel_granted_all_three_wishes/cv1ibk5/
+    date: 2015/09/14
+    score: 34
+    text: |
+      <p>
+        Quirrell carried out "I will grant three wishes using a single plot" as
+        follows:
+      </p>
+      <ul>
+        <li>
+          Harry's wish to remove the Snitch from Quidditch (not a done deal, but Harry
+          gets his chance).
+        </li>
+        <li>
+          Either Slytherin or Ravenclaw gets the House Cup (1 wish granted either
+          way).
+        </li>
+        <li>
+          Quirrell gets a very long distraction in which to obtain his own wish of
+          getting the Philosopher's Stone.
+        </li>
+      </ul>
+  - type: original
+    date: 2020/04/30
+    text: |
+      <p>Note that Quirrell doesn't say "<em>these</em> three wishes"</p>
+
+================================================================================
+File: 36.yaml | Paragraph 6998
+================================================================================
+6998:
+  text: |-
+    The sky was completely dark, and stars were coming out, by the time they
+    negotiated the Christmas traffic to the university town that was Oxford, and
+    parked in the driveway of the small, dingy-looking old house that their family
+    used to keep the rain off their books.
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/a7vvpb/for_whatever_reason_even_though_its_stated/ec8dws1/
+    date: 2018/12/21
+    score: 25
+    text: |
+      <p>
+        I didn't want to pick a real address in Oxford and have people start showing
+        up there, which seemed like a possibility given the size of HPMOR fandom. I
+        didn't like the idea of having an address that was definitely not really in
+        Oxford, or an address that was really FHI or some other non-residential
+        address. So I, personally, think of their house as just somewhere-in-Oxford,
+        since the story never demanded it to be more specific. But you're welcome to
+        pick any solution you like.
+      </p>
+
+================================================================================
+File: 38.yaml | Paragraph 7175
+================================================================================
+7175:
+  text: |-
+    "And I'm secretly sixty-five years old."
+  notes:
+  - type: reddit
+    author: pedanterrific
+    url: https://reddit.com/r/HPMOR/comments/1al542/im_not_serious_chapter_58_spoils/c8yffdi/
+    date: 2013/03/19
+    score: 53
+    text: |
+      <p>Chapter 38:</p>
+      <p>(Also, care to guess how old Tom Riddle is on 5 January, 1992?)</p>
+
+================================================================================
+File: 38.yaml | Paragraph 7177
+================================================================================
+7177:
+  text: |-
+    "And I'm betrothed to Hermione Granger, <em>and</em> Bellatrix Black,
+    <em>and</em> Luna Lovegood, and oh yes, Draco Malfoy too..."
+  notes:
+  - type: reddit
+    author: TransgenderPride
+    url: https://reddit.com/r/HPMOR/comments/g2kqct/spoilers_question_about_sloshed_seer_spills/fnm8ttx/
+    date: 2020/04/16
+    score: 12
+    text: |
+      <p>
+        3 is true, more or less. It isn't explicitly true- just like how Peter and
+        Sirius aren't <em>exactly</em> "the same person."
+      </p>
+      <blockquote>
+        <p>Hermione Granger</p>
+      </blockquote>
+      <p>The trial</p>
+      <blockquote>
+        <p>Bellatrix Black</p>
+      </blockquote>
+      <p>
+        Swore herself to Tom Riddle, and he presumably bound her to himself in many
+        ways that are arguably closer than betrothal
+      </p>
+      <blockquote>
+        <p>Luna Lovegood</p>
+      </blockquote>
+      <p>The deal with Draco.</p>
+      <blockquote>
+        <p>Draco Malfoy</p>
+      </blockquote>
+      <p>
+        "Boy Who Lived Gets Draco Malfoy Pregnant" yadda yadda subtext. This is imo
+        the weakest one, and kind of breaks the fourth wall, but it's funny
+        nonetheless.
+      </p>
+
+================================================================================
+File: 38.yaml | Paragraph 7201
+================================================================================
+7201:
+  text: |-
+    "Let us dispense with games," said the senior Malfoy, the grey eyes suddenly
+    hardening. "If my suspicions are true, you would hardly do Dumbledore's bidding
+    in any case, <em>Mr. Potter.</em>"
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/60cm4x/what_convinced_lucius_and_why_spoilers_all/df6j3f8/
+    date: 2017/03/20
+    score: 41
+    text: |
+      <p>Lucius starts out talking to Voldemort.</p>
+      <blockquote>
+        <p>
+          "Let us dispense with games," said the senior Malfoy, the grey eyes suddenly
+          hardening. "If my suspicions are true, you would hardly do Dumbledore's
+          bidding in any case, <em>Mr. Potter.</em>"
+        </p>
+      </blockquote>
+      <p>After which:</p>
+      <blockquote>
+        <p>There was a slight pause.</p>
+        <p>
+          "So you know," Harry said, his voice cold. "Tell me. At which point,
+          exactly, did you realize?"
+        </p>
+      </blockquote>
+      <p>
+        This of course is Harry bluffing his way through a conversation he doesn't
+        understand. Given Lucius's prior belief, and the actual background truths
+        leading Harry to use that particular tone of voice, this tactic works
+        excellently.
+      </p>
+      <p>
+        After some amount of conversation, Lucius suddenly hears Voldemort say the
+        spectacularly out-of-character line:
+      </p>
+      <blockquote>
+        <p>
+          "I find it interesting," Harry said, putting steel into his own voice, "that
+          you think I could benefit from doing Draco harm. But it is irrelevant,
+          Lucius. <em>He</em> is my friend, and I do not betray my friends."
+        </p>
+        <p>"<em>What?</em> " whispered Lucius. His face showed sheer shock.</p>
+      </blockquote>
+      <p>
+        After some further events and interaction with Augusta Longbottom, Lucius
+        hears the line:
+      </p>
+      <blockquote>
+        <p>
+          "I think not. I prefer to deal with the part of House Malfoy that's my own
+          age."
+        </p>
+      </blockquote>
+      <p>
+        This line makes no sense for Voldemort having a cryptic conversation with
+        Lucius; it only makes sense for "Harry Potter". Which causes Lucius to
+        suddenly realize that this whole time he's been talking to a Voldemort
+        <em>staying in character</em> as Harry Potter, not giving away or admitting
+        anything; a Voldemort who is therefore <em>pretending</em> to be Harry Potter
+        fishing for information while bluffing his way through a conversation he
+        doesn't understand.
+      </p>
+      <blockquote>
+        <p>
+          "Of course..." said Lucius slowly. "I do feel the fool now. This whole time
+          you were just pretending to have no idea what we were talking about."
+        </p>
+      </blockquote>
+      <p>
+        In actuality, of course, Lucius is dealing with Harry Potter fishing for
+        information while bluffing his way through a conversation he doesn't
+        understand.
+      </p>
+      <p>
+        Sheesh, why would anyone have trouble keeping track of this, it's not more
+        than 3 levels of recursion.
+      </p>
+
+================================================================================
+File: 42.yaml | Paragraph 7724
+================================================================================
+7724:
+  text: |-
+    "They were lovers, weren't they?"
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/2ykzfb/chapter_119/cpb2353/
+    date: 2015/03/10
+    score: 22
+    text: |
+      <p>
+        Note: Since Peter is a Metamorphmagus, Sirius did not need to be gay for this
+        hookup to occur.
+      </p>
+
+================================================================================
+File: 43.yaml | Paragraph 7863
+================================================================================
+7863:
+  text: |-
+    "<em>The Dementor!</em> " said Hermione. Her voice rose to a shriek.
+    "<em>Professor Quirrell wants it to eat you!</em> "
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/a4ivfy/how_did_the_dementor_know/ebj43q1/
+    date: 2018/12/10
+    score: 10
+    text: |
+      <p>
+        I was broadly modeling the Dementor on having picked up something like a
+        suggestion or a hint of the Defense Professor's plans, and transmitted
+        something like a suggestion or hint of that to Hermione, though in very vague
+        detail and with elaboration by fear. Dementors affect and are affected by the
+        people around them.
+      </p>
+
+================================================================================
+File: 43.yaml | Paragraph 7904
+================================================================================
+7904:
+  text: |-
+    An open question. Harry wouldn't let his mind see something false, and so he
+    didn't see anything, like the part of his visual cortex getting that signal was
+    just ceasing to exist. There was a blind spot under the cloak. Harry couldn't
+    know what was under there.
+  notes:
+  - type: reddit
+    author: coredumperror
+    url: https://reddit.com/r/HPMOR/comments/45s8r7/why_cant_harry_hear_the_dementors_speak/czzwd4o/
+    date: 2016/02/14
+    score: 34
+    text: |
+      <p>
+        Something no one else has mentioned in a particularly clear way, though AdShea
+        did mention Harry's "brain-hypervisor", is that Harry can't hear the dementors
+        for the same reason that he can't see them. The dementors are "trying" (for
+        lack of a better term) to convince the people around them that they're "dead
+        things left in water", but they aren't really that. And Harry's training to
+        avoid accepting falsehoods prevents him from being affected by that part of
+        the dementors' magical effect.
+      </p>
+    replies:
+    - type: reddit
+      author: EliezerYudkowsky
+      url: https://reddit.com/r/HPMOR/comments/45s8r7/why_cant_harry_hear_the_dementors_speak/d00iiue/
+      date: 2016/02/15
+      score: 21
+      text: |
+        <p>Affirm.</p>
+
+================================================================================
+File: 52.yaml | Paragraph 9086
+================================================================================
+9086:
+  text: |-
+    "I can already feel the Dementors," said the gravelly voice of the Polyjuiced
+    Quirrell. "I did not expect that, not this soon."
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/3fn5nk/reread_discussion_ch_52_the_stanford_prison/ctu2m8e/
+    date: 2015/08/06
+    score: 12
+    text: |
+      <p>
+        The main thing you're supposed to figure out is that the Defense Professor is
+        really <em>really</em> scared of death, which was meant to be a pointer to
+        <em>oh gosh I don't know what</em>.
+      </p>
+
+================================================================================
+File: 54.yaml | Paragraph 9291
+================================================================================
+9291:
+  text: |-
+    After Li raked in the pot, Bahry gave them all formal nods, and stood up from
+    the table. The older man's long white locks brushed against his fancy red robes,
+    his robes brushed the metal floor of the command room, as Bahry went through the
+    separating door that led to the formerly off-duty Aurors.
+  notes:
+  - type: reddit
+    author: yomikoma
+    url: https://reddit.com/r/HPMOR/comments/3gc378/reread_discussion_ch_54_the_stanford_prison/ctz42vc/
+    date: 2015/08/11
+    score: 4
+    text: |
+      <p>
+        <a href="https://en.wikipedia.org/wiki/Redshirt_(character)"
+          >https://en.wikipedia.org/wiki/Redshirt_(character)</a
+        >
+      </p>
+
+================================================================================
+File: 54.yaml | Paragraph 9393
+================================================================================
+9393:
+  text: |-
+    (And then it was already too late.)
+  draw-line-after-paragraph: true
+  notes:
+  - type: reddit
+    author: Vivificient
+    url: https://reddit.com/r/HPMOR/comments/2fbyjx/what_irreversible_event_happened_in_ch_54/ck7sx3t/
+    date: 2014/09/03
+    score: 39
+    text: |
+      <p>
+        I took it to refer to the Dementor informing the aurors of Bellatrix's escape.
+        If Harry had re-cast his Patronus before it was too late, the Dementors would
+        have lost sight of Bellatrix and no longer realized she was free. Then Harry
+        would have been able to complete the mission successfully using the original
+        escape plan.
+      </p>
+    replies:
+    - type: reddit
+      author: EliezerYudkowsky
+      url: https://reddit.com/r/HPMOR/comments/2fbyjx/what_irreversible_event_happened_in_ch_54/ck99uzt/
+      date: 2014/09/04
+      score: 21
+      text: |
+        <p>Affirm.</p>
+
+================================================================================
+File: 57.yaml | Paragraph 9869
+================================================================================
+9869:
+  text: |-
+    "Nonsense, my dear," the old wizard said cheerfully as he strode off yet again,
+    waving as though in admonition his fifteen-inch wand of unidentifiable dark-grey
+    wood, "I'm invincible."
+  notes:
+  - type: reddit
+    author: d20diceman
+    url: https://reddit.com/r/HPMOR/comments/g9f5r6/i_love_the_significant_little_details_you_only/fotu4c8/
+    date: 2020/04/28
+    score: 42
+    text: |
+      <p>
+        I also like how in Azkaban, Dumbledore very casually reveals that he holds the
+        elder wand, in a way that's simultaneously blatant and fairly missable:
+      </p>
+
+================================================================================
+File: 58.yaml | Paragraph 10010
+================================================================================
+10010:
+  text: |-
+    The snake's hiss was now more furious than anything Harry had ever heard from
+    the human Professor Quirrell. "<em>Sslay him? Had I ssought to sslay him he
+    would have been dead within ssecondss, fool boy, he wass no match for me! I
+    ssought to ssubdue, to dominate, force him to drop sshieldss upon hiss mind,
+    needed to read him, to know who awaited hiss reply, learn detailss for memory
+    sspell -"</em>
+  notes:
+  - type: original
+    date: 2024/04/27
+    text: |
+      <p>
+        They discuss this incident again in
+        <a class="link-hpmor" href="https://hpmor.info/102#17259">Chapter 102</a>
+      </p>
+
+================================================================================
+File: 58.yaml | Paragraph 10033
+================================================================================
+10033:
+  text: |-
+    The true phoenix screamed once, twice, and a third time, hovering before the
+    metal door; and then, when it became clear that its master would not return for
+    all its calling, flew reluctantly after.
+  draw-line-after-paragraph: true
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/4pqdiu/theory_the_true_allegiance_of_mr_grim_spoilers_all/d4n6mch/
+    date: 2016/06/25
+    score: 15
+    text: |
+      <p>
+        Fawkes was screaming outside Pettigrew's cell and tried desperately to call
+        back Dumbledore.
+      </p>
+
+================================================================================
+File: 63.yaml | Paragraph 11156
+================================================================================
+11156:
+  text: |-
+    "I guess that helped a little," said Harry. "Actually I think it helped more
+    than playing Gobstones for an hour could've possibly helped, so thanks for being
+    you. And no matter what, I'm <em>not</em> having anyone Obliviate everything I
+    know about calculus. I'd sooner die."
+  notes:
+  - type: reddit
+    author: XxChronOblivionxX
+    url: https://reddit.com/r/HPMOR/comments/795q4u/hjpev_successfailure_reread_chapters_5573/dozm71e/
+    date: 2017/10/27
+    score: 21
+    text: |
+      <blockquote>
+        <p>
+          Also, I must have missed it or forgotten, does anyone know what Harry was
+          talking about here?
+        </p>
+      </blockquote>
+      <p>
+        If I had to take a guess, Harry has just been confronted with a multitude of
+        horrors that he'd previously been ignorant of, that he had to defeat entirely
+        by himself. He's just been forced to grow up in a devastating way, and here he
+        really wants to find something childish and normal to get a little bit back of
+        what he lost. He's also probably wondering if he'd be happier if he was more
+        innocent and less intelligent, but a minute of honest interaction with his
+        best friend reaffirms to him that he will be fine, and that his intelligence
+        and education are parts of him that he doesn't want to ever give up.
+      </p>
+    replies:
+    - type: reddit
+      author: EliezerYudkowsky
+      url: https://reddit.com/r/HPMOR/comments/795q4u/hjpev_successfailure_reread_chapters_5573/dozmcr3/
+      date: 2017/10/27
+      score: 14
+      text: |
+        <p>Yep.</p>
+
+================================================================================
+File: 66.yaml | Paragraph 11518
+================================================================================
+11518:
+  text: |-
+    "<em>Lessson I learned is not to try plotss that would make girl-child friend
+    think I am evil or boy-child friend think I am sstupid,</em>" Harry snapped
+    back. He'd been planning a more temporizing response than that, but somehow the
+    words had just slipped out.
+  notes:
+  - type: reddit
+    author: sabbrielle
+    url: https://reddit.com/r/HPMOR/comments/56aqx5/hints_about_parselmouth/d8ibyu0/
+    date: 2016/10/07
+    score: 26
+    text: |
+      <p>
+        This response is also the moment Quirrelmort realized he had to get rid of
+        Hermione and Draco, in my opinion.
+      </p>
+
+================================================================================
+File: 66.yaml | Paragraph 11521
+================================================================================
+11521:
+  text: |-
+    There was a long pause as the snake-head swayed, staring at Harry; again no
+    detectable emotion came through, and Harry wondered what Professor Quirrell
+    could be thinking that would take Professor Quirrell that long to think.
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/83ui0l/at_the_risk_of_sounding_like_a_sexist_id_like_to/dvm3t7m/
+    date: 2018/03/13
+    score: 25
+    text: |
+      <p>Yep. I flagged it too:</p>
+      <p>
+        This is the best attempt I could figure for saying "Say, reader, you should
+        think about what PQ might have been thinking just then."
+      </p>
+
+================================================================================
+File: 67.yaml | Paragraph 11598
+================================================================================
+11598:
+  text: |-
+    And finally she grasped her wand in both hands and shrieked, "<em>Lucis
+    Gladius!</em> "
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/8fo21s/quirrells_extra_security_spells/dy74e6k/
+    date: 2018/04/30
+    score: 14
+    text: |
+      <p>
+        "Tonare!" is "Thunder!" from Thundercats. "Lucis Gladius" is "Sword of Light"
+        from Slayers, not just "Light Saber". I mean, what were the odds that only the
+        first word was <em>not</em> a reference?
+      </p>
+
+================================================================================
+File: 74.yaml | Paragraph 12840
+================================================================================
+12840:
+  text: |-
+    "Because they are stupid," said Professor Quirrell. "There are hundreds of
+    useful rituals which could be performed if men had so much sense; I could name
+    twenty without stopping to draw breath. But in any case, Mr. Potter, the thing
+    about such rituals - whether or not you choose to term them Dark - is that they
+    are shaped to be magically efficacious, not to appear impressive when performed.
+    I suppose there is a certain tendency for the more powerful rituals to require
+    more dreadful sacrifices. Even so, the most terrible ritual known to me demands
+    only a rope which has hanged a man and a sword which has slain a woman; and that
+    for a ritual which promised to summon Death itself - though what is truly meant
+    by that I do not know and do not care to discover, since it was also said that
+    the counterspell to dismiss Death had been lost. The most dread chant I have
+    encountered does not sound even a hundredth as fearsome as the chant you
+    composed for Miss Davis. Those among the bullies who had a passing familiarity
+    with Dark rituals - and I am certain that there were some - must have been
+    terrified beyond the capacity of words to describe. If there existed a true
+    ritual which appeared that impressive, Mr. Potter, it would melt the Earth."
+  notes:
+  - type: reddit
+    author: chiruochiba
+    url: https://reddit.com/r/HPMOR/comments/g4siqb/the_origine_of_the_dementors/fo1j04j/
+    date: 2020/04/20
+    score: 10
+    text: |
+      <p>
+        It is a reference, but to a different fantasy series: the Legends of Ethshar
+        novel series by Lawrence Watt Evans.
+      </p>
+      <p>
+        From the
+        <a href="https://ethshar.fandom.com/wiki/Seething_Death">wiki page</a>:
+      </p>
+      <p>
+        The "Seething Death" is a spell to summon a drop of pure chaos which expands,
+        converting anything it comes in contact with into more of the substance. The
+        components required for the spell are an athame, dragon's blood, serpent's
+        venom, <strong>a sword that's slain a woman</strong>,
+        <strong>a rope that's hanged a man</strong>, a shallow silver bowl, a golden
+        thimble, and a reckless disregard for the continued existence of the World.
+      </p>
+      <p>
+        Described as a "contagious lack of thing-ness," the bubbling, viscous goo
+        created by the spell expands rapidly along areas of solid material but
+        relatively slowly through air. It is believed that unchecked, this spell would
+        destroy the World. It is only known to have been used three times; the first
+        two times it was stopped with a countercharm.
+        <strong>The original countercharm has since been lost.</strong>
+      </p>
+
+================================================================================
+File: 77.yaml | Paragraph 13337
+================================================================================
+13337:
+  text: |-
+    ...a black cloak so wide and billowing that it was impossible to determine
+    whether the figure beneath was male or female, and atop the cloak a broad-
+    brimmed black hat; and a black mist seemed to gather beneath it and obscure the
+    face of whoever or whatever might lie beneath.
+  notes:
+  - type: original
+    date: 2020/04/30
+    text: |
+      <p>
+        The figure is Professor Quirrell, as becomes clear in
+        <a class="link-hpmor" href="https://hpmor.info/chapter/108/#18031">Chapter 108</a>
+      </p>
+
+================================================================================
+File: 84.yaml | Paragraph 14574
+================================================================================
+14574:
+  text: |-
+    "Goodbye, Mr. Altunay," said the Defense Professor.
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/5a1b1s/goodbye_rita_skeeter/d9dgvbd/
+    date: 2016/10/29
+    score: 68
+    text: |
+      <p>
+        He totally planned to track down Altunay later and kill him at leisure and
+        that is exactly what "Goodbye" means.
+      </p>
+
+================================================================================
+File: 84.yaml | Paragraph 14709
+================================================================================
+14709:
+  text: |-
+    That if the Defense Professor <em>was</em> behind this whole thing - then
+    Professor Quirrell had done it all <em>just to get her out of the way of his
+    plans for Harry.</em>
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/6cgp9h/man_i_feel_stupid_chapter_77_spoilers_up_to/dhx339d/
+    date: 2017/05/23
+    score: 31
+    text: |
+      <p>It's not a Harry Potter story unless Hermione solves the mystery first.</p>
+
+================================================================================
+File: 86.yaml | Paragraph 14944
+================================================================================
+14944:
+  text: |-
+    "Fawkes can go to many places," Albus said. "Do not mention the fact."
+  notes:
+  - type: reddit
+    author: 75thTrombone
+    url: https://reddit.com/r/HPMOR/comments/aran7g/prophecy_chapter_86/egmv594/
+    date: 2019/02/16
+    score: 20
+    text: |
+      <p>
+        James and Lily never went. Dumbledore misled Harry to that conclusion with
+        true but irrelevant statements. The actual truth is that Dumbledore himself
+        heard the full text of the prophecy because he invoked Merlin’s
+        forbidden-but-not-utterly-forbidden password.
+      </p>
+
+================================================================================
+File: 86.yaml | Paragraph 14974
+================================================================================
+14974:
+  text: |-
+    The Potions Master shook his head. "The Dark Lord was no fool, despite Potter's
+    delusions. The moment such a test is suspected, the Mark ceases to bind our
+    tongues. Yet I could not hint at the possibility, but only wait for another to
+    deduce it." Another thin smile. "I would award you a good many House points, Mr.
+    Potter, if it would not compromise my cover. But as you can see, the Dark Lord
+    was quite cunning." His gaze grew more distant. "Oh," Severus breathed, "he was
+    <em>very</em> cunning indeed..."
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/31w35r/an_open_letter_to_eliezer_questions_that_never/cq723xr/
+    date: 2015/04/09
+    score: 17
+    text: |
+      <blockquote>
+        <p>
+          Severus' lines here imply that there was there was at least one level of
+          defense that Harry overlooked. What was it/were they?
+        </p>
+      </blockquote>
+      <p>
+        I hadn't meant to imply that interpretation. If there was another level of
+        defense, Snape would either be unable to talk about it or hint at it, or he'd
+        be able to describe it right out. Snape is just thinking about all the other
+        terrifyingly cunning things he's seen Voldemort do.
+      </p>
+
+================================================================================
+File: 86.yaml | Paragraph 15311
+================================================================================
+15311:
+  text: |-
+    "I'm not finished, son. The second reason is that the Killing Curse doesn't
+    <em>just</em> take a powerful bit of magic. You've got to <em>mean</em> it.
+    You've got to <em>want</em> someone dead, and not for the greater good, either.
+    Killing Grice didn't bring back Blair Roche, or Nathan Rehfuss, or David Capito.
+    It wasn't for justice, or to stop him doing it again. <em>I wanted him
+    dead.</em> You understand now, lad? You don't have to be a Dark Wizard to use
+    that spell - but you can't be Albus Dumbledore, either. And if you're arrested
+    for killing with it, there's no possible defense."
+  notes:
+  - type: original
+    date: 2024/04/27
+    text: |
+      <p>
+        Harry discusses this with Quirrell in
+        <a class="link-hpmor" href="https://hpmor.info/102#17259">Chapter 102</a>
+      </p>
+
+================================================================================
+File: 87.yaml | Paragraph 15454
+================================================================================
+15454:
+  text: |-
+    "Number fourteen, 'Crozier', true name unknown," Harry read. "Wow, that is...
+    that is the gaudiest checkered top hat I've ever seen. Wealth, at least six
+    hundred thousand Galleons... so around thirty million pounds, not enough to make
+    a Muggle famous, but good enough for the smaller wizard population, I guess.
+    Rumored to be a modern alias of the six-century-old Nicholas Flamel, the only
+    known wizard to succeed at the incredibly difficult alchemical procedure for
+    creating the Philosopher's Stone, which enables the transmutation of base metals
+    into gold or silver as well as... the Elixir of Life which indefinitely prolongs
+    the youth and health of the user... Um, Hermione, this seems obviously false."
+  notes:
+  - type: reddit
+    author: thecommexokid
+    url: https://reddit.com/r/HPMOR/comments/2br10g/a_longrunning_joke_of_ours_might_actually_have/
+    date: 2014/07/25
+    score: 126
+    text: |
+      <!-- SC_OFF -->
+      <div class="md">
+        <blockquote>
+          <p>
+            Past Professors of Defence have included not just the legendary wandering
+            hero Harold Shea but also the
+            <strong>quote undying unquote Baba Yaga</strong>, yes, I see some of you
+            are still shuddering at the sound of her name even though she's been
+            <strong>dead for six hundred years</strong>.
+          </p>
+        </blockquote>
+        <p>–Chapter 12</p>
+        <blockquote>
+          <p>
+            Rumored to be a modern alias of the
+            <strong>six-century-old</strong> Nicholas Flamel, the only known wizard to
+            succeed at the incredibly difficult alchemical procedure for creating the
+            Philosopher's Stone,
+          </p>
+        </blockquote>
+        <p>–Chapter 87</p>
+        <blockquote>
+          <p>
+            J. K. Rowling created certain roles and assigned them genders. The story
+            of HPMOR is built around the parallel-universe versions of those roles,
+            and
+            <strong
+              >those roles (with one exception) retain whichever genders they had in
+              canon</strong
+            >.
+          </p>
+        </blockquote>
+        <p>
+          –<a href="http://hpmor.com/a-rant-thereof/"
+            >A rant on HPMOR's anti-feminism or lack threrof</a
+          >
+        </p>
+        <blockquote>
+          <p>
+            <em>Sstone's ssuppossed maker wass not one who made it.</em>
+            <strong
+              ><em
+                >One who holdss it now, wass not born to name now ussed.</em
+              ></strong
+            >
+          </p>
+        </blockquote>
+        <p>–The new chapter</p>
+        <p>Nicholas Flamel is Baba Yaga.</p>
+      </div>
+      <!-- SC_ON -->
+
+================================================================================
+File: 88.yaml | Paragraph 15578
+================================================================================
+15578:
+  text: |-
+    April 16th, 1992.
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/59w1ms/it_happened_on_a_thursday/d9cle7m/
+    date: 2016/10/29
+    score: 20
+    text: |
+      <p>
+        Hermione dies three days before Easter. I almost had her die on Good Friday,
+        but I decided that might be pushing it even with transparency illusion.
+      </p>
+      <p>
+        In retrospect, considering the fridgesayers, I'm pretty sure I could've gotten
+        away with it.
+      </p>
+
+================================================================================
+File: 88.yaml | Paragraph 15615
+================================================================================
+15615:
+  text: |-
+    "I do apologize, Professor," said Professor McGonagall, as she turned toward the
+    great doors. Filius and Pomona had already risen to follow her, with Rubeus
+    Hagrid towering over all of them as the half-giant stood up. She'd been through
+    similar experiences too many times, at this point. "Sad experience has taught me
+    that on occasions such as these, it is not a good time to take any advice the
+    current Defense Professor may offer. Indeed, I think it wise that the two of us
+    search for the troll together, so that no suspicions may be cast upon you for
+    any untoward events which occur during that time."
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/3qq9aq/reread_discussion_ch_88_time_pressure_pt_1/cwpp54m/
+    date: 2015/11/05
+    score: 5
+    text: |
+      <p>
+        She's not thinking Quirrell sent in the troll, just that she wants to make
+        sure he doesn't get fired for some weird reason.
+      </p>
+
+================================================================================
+File: 97.yaml | Paragraph 16785
+================================================================================
+16785:
+  text: |-
+    Harry wrenched his eyes away, up to Lucius Malfoy's face, forcing himself to
+    breathe regularly, not quite able to stop his muscles from tensing.
+  notes:
+  - type: reddit
+    author: malgalad
+    url: https://reddit.com/r/HPMOR/comments/31w35r/an_open_letter_to_eliezer_questions_that_never/cq5i8m7/
+    date: 2015/04/08
+    score: 28
+    text: |
+      <p>
+        2) No unanswered question. Harry was tense because whether Lucius will sign
+        the parchment or not will decide Harry's course of actions.
+      </p>
+      <p>
+        From Harry's PoV, if he wouldn't be calm and relaxed, Lucius will gain more
+        leverage over him, since he'll understand (or at least suspect) how important
+        it is for Harry.
+      </p>
+    replies:
+    - type: reddit
+      author: EliezerYudkowsky
+      url: https://reddit.com/r/HPMOR/comments/31w35r/an_open_letter_to_eliezer_questions_that_never/cq722b6/
+      date: 2015/04/09
+      score: 10
+      text: |
+        <p>Affirm.</p>
+
+================================================================================
+File: 101.yaml | Paragraph 17135
+================================================================================
+17135:
+  text: |-
+    "I am sorry, Harry Potter," the centaur said, and then looked up with widened
+    eyes. The spear spun about and came up, intercepting a red spellbolt. Then the
+    centaur dropped the spear and leaped away desperately, a green flash of light
+    went past him and another green flash of light followed in its wake, then a
+    third green flash hit the centaur straight-on.
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: 
+      https://reddit.com/r/HPMOR/comments/3g95gb/spoilers_all_can_he_cast_ak_wordlessly/ctx4z7r/
+    date: 2015/08/09
+    score: 27
+    text: |
+      <p>The Defense Professor can AK wordlessly.</p>
+
+================================================================================
+File: 101.yaml | Paragraph 17146
+================================================================================
+17146:
+  text: |-
+    "Well," the Defense Professor said then, "I have made my point, and you may
+    think on it. Centaur spears can block many spells, but no one tries to block if
+    they see that the spell is a certain shade of green. For this purpose it is
+    useful to know some green stunning hexes. Really, Mr. Potter, you should
+    understand by now how I operate."
+  notes:
+  - type: original
+    date: 2025/01/26
+    author: ''
+    origin: https://github.com/DominikPeters/hpmor.info/issues/8
+    text: |-
+      <p>
+      The Defense Professor does not say that in this case, he actually used a green stunning hex. In <a class="link-hpmor" href="https://hpmor.info/chapter/106/#17809">Chapter 106</a>, it becomes clear that he indeed had killed the Centaur. See also <a class="link-reddit" href="https://www.reddit.com/r/HPMOR/comments/1iah0bq/does_voldemort_actually_know_green_stunning_hexes/">reddit discussion</a>.
+      </p>
+
+================================================================================
+File: 102.yaml | Paragraph 17219
+================================================================================
+17219:
+  text: |-
+    Harry had checked the books, had learned that since he was too young to have
+    sexual thoughts he would be able to approach a unicorn without fear. The same
+    books had said nothing about unicorns being smart. Harry had already noticed
+    that every intelligent magical species was at least partially humanoid, from
+    merfolk to centaurs to giants, from elves to goblins to veela. All had
+    essentially humanlike emotions, many were known to interbreed with humans. Harry
+    had already reasoned out that magic didn't create new intelligence but just
+    changed the shape of genetically human beings. Unicorns were equinoid, were not
+    even partially humanoid, didn't talk, used no tools, they were almost certainly
+    just magical horses. If it was right to eat a cow to feed yourself for a day,
+    then it <em>had</em> to be right to drink a unicorn's blood in order to stave
+    off death for weeks. You couldn't have it both ways.
+  notes:
+  - type: original
+    date: 2025/05/30
+    author: ''
+    origin: https://github.com/DominikPeters/hpmor.info/issues/17
+    text: |-
+      In legends, unicorns are often shown as fierce and untameable, but become docile in the presence of virgins. See <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/UnicornsPreferVirgins">https://tvtropes.org/.../UnicornsPreferVirgins</a>
+
+================================================================================
+File: 103.yaml | Paragraph 17365
+================================================================================
+17365:
+  text: |-
+    "All of you in this room... have received grades of at least Acceptable. Neville
+    Longbottom... who took this test in the Longbottom home... received a grade of
+    Outstanding. But the other student who is not here... has had a Dreadful grade
+    entered on her record... for failing the only important test... that was given
+    her this year. I would have marked her even lower... but that would have been in
+    poor taste."
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/2u11wv/chapter_103/co45owx/
+    date: 2015/01/28
+    score: 261
+    text: |
+      <p>(The next mark lower than Dreadful is Troll.)</p>
+
+================================================================================
+File: 103.yaml | Paragraph 17375
+================================================================================
+17375:
+  text: |-
+    "It is the same grade... that I received in my own first year."
+  notes:
+  - type: reddit
+    author: DrunkenPumpkin
+    url: https://reddit.com/r/HPMOR/comments/2u11wv/chapter_103/co45y8r/
+    date: 2015/01/28
+    score: 96
+    text: |
+      <p>
+        <a
+          href="http://www.reddit.com/r/HPMOR/comments/221b18/and_the_dark_lord_shall_mark_him_as_his_equal/"
+          >http://www.reddit.com/r/HPMOR/comments/221b18/and_the_dark_lord_shall_mark_him_as_his_equal/</a
+        >
+      </p>
+    replies:
+    - type: reddit
+      author: EliezerYudkowsky
+      url: https://reddit.com/r/HPMOR/comments/2u11wv/chapter_103/co477uc/
+      date: 2015/01/28
+      score: 193
+      text: |
+        <p>
+          That was a self-fulfilling prophecy: I read the post and decided it would
+          happen.
+        </p>
+
+================================================================================
+File: 104.yaml | Paragraph 17689
+================================================================================
+17689:
+  text: |-
+    In the Defense Professor's hand was a shape of black metal pointed at Harry's
+    wand arm, held with the sure grip of someone who knew exactly how to use a
+    semiautomatic handgun.
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/3xxoye/reread_discussion_ch_105_the_truth_pt_2/cy8q6tp/
+    date: 2015/12/23
+    score: 22
+    text: |
+      <p>
+        The apprentice fanfic writer asks, "What if Harry had a gun?" The master asks,
+        "What if Voldemort had a gun?"
+      </p>
+
+================================================================================
+File: 105.yaml | Paragraph 17730
+================================================================================
+17730:
+  text: |-
+    "An obvious concern," Professor Quirrell said. "There is a simple answer, and I
+    would have enforced it upon you in any case. <em>Ssnakes can't lie</em>. And
+    since I have a tremendous distaste for stupidity, I suggest you do not say
+    anything like 'What do you mean?' You are smarter than that, and I do not have
+    time for such conversations as ordinary people inflict on one another."
+  notes:
+  - type: reddit
+    author: Jesin00
+    url: https://reddit.com/r/HPMOR/comments/2w526t/chapter_105/conojq6/
+    date: 2015/02/16
+    score: 38
+    text: |
+      <p>
+        In an ordinary language, each participant in the conversation has his own
+        mental mapping between sounds-spoken-or-heard and
+        concepts-transmitted-or-received. Anyone who wishes to understand or speak the
+        language must learn that mapping. If Alice and Bob have learned somewhat
+        different sound-concept mappings, then the concepts transmitted by Alice will
+        not match up completely with the concepts received by Bob.
+      </p>
+      <p>
+        Parseltongue is not an ordinary language. You either magically
+        <em>speak Parseltongue</em> or you do not; you cannot <em>learn</em> or
+        <em>choose</em> the mappings between sounds and concepts in Parseltongue. You
+        cannot <em>redefine</em> a word in Parseltongue, so it is impossible to
+        <em>mean</em> one thing by an utterance in Parseltongue and
+        <em>be understood as meaning</em> something different.
+      </p>
+      <p>At least, that is my theory.</p>
+    replies:
+    - type: reddit
+      author: EliezerYudkowsky
+      url: https://reddit.com/r/HPMOR/comments/2w526t/chapter_105/coogoeo/
+      date: 2015/02/17
+      score: 23
+      text: |
+        <p>Confirm.</p>
+
+================================================================================
+File: 106.yaml | Paragraph 17809
+================================================================================
+17809:
+  text: |-
+    He knew then that he'd seen and sensed this procedure before, only without the
+    spoken Latin.
+  notes:
+  - type: original
+    date: 2025/01/26
+    author: ''
+    origin: https://github.com/DominikPeters/hpmor.info/issues/7
+    text: |-
+      <p>
+      The Defense Professor had awoken the centaur, pretending not to have killed him.
+      <a class="link-hpmor" href="https://hpmor.info/chapter/101/#17150">Chapter 101</a>
+      </p>
+
+================================================================================
+File: 108.yaml | Paragraph 17991
+================================================================================
+17991:
+  text: |-
+    After a time Professor Quirrell picked up the next Potions ingredient, a strand
+    of what looked like unicorn hair. "I tell you this as a caution," said Professor
+    Quirrell. "Do not expect me to be delayed another nine years, if you somehow
+    destroy this body of mine. I set horcruxes in better places at once, and now
+    even that is unnecessary. Thanks to you, I learned where to find the
+    Resurrection Stone. The Resurrection Stone does not bring back the dead, of
+    course; but it holds a more ancient magic than my own for projecting the seeming
+    of a spirit. And since I am one who has defeated death, Cadmus's Hallow
+    acknowledged me its master, and answered all my will. I have now incorporated it
+    into my great creation." Professor Quirrell smiled slightly. "I had many years
+    earlier considered making that device a horcrux, but decided against it at the
+    time, since I realized that the ring had magic of unknown nature... ah, such
+    ironies does life play upon us. But I digress. <em>You</em>, boy, you brought
+    that about, you freed my spirit to fly where it pleases and seduce the most
+    opportune victim, by being too casual with your secrets. It is a catastrophe for
+    any who oppose me, and you wrought it with one finger drawing wetness on a tea-
+    saucer. This world will be a safer place for all, if you learn the rectitude
+    that wizardborns absorb in childhood. <em>And all thiss that I have jusst said
+    iss the truth.</em>"
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/31p38x/so_what_happened_to_tom_riddles_type_one_horcruxes/cq4pc3v/
+    date: 2015/04/07
+    score: 29
+    text: |
+      <p>
+        My intended interpretation was that Quirrell found a Type 2 horcrux and that
+        events were something like as follows:
+      </p>
+      <ol>
+        <li>Tom Riddle learns Horcrux 1.</li>
+        <li>Makes diary from Myrtle.</li>
+        <li>
+          Makes six other Horcrux 1s from shiny things, places them in locations where
+          they would activate after his death.
+        </li>
+        <li>Completes Horcrux 2.</li>
+        <li>
+          Realizes that Horcrux 2s no longer need to be left where they can be found
+          (so far as he knows).
+        </li>
+        <li>Makes Horcrux 2s from shiny things, hides them behind Inferi.</li>
+        <li>
+          Gets older, realizes younger self was bloody idiot and failed to update
+          strategy fully, starts mass-manufacturing Horcrux 2s from pebbles and
+          portkeying them into the sea. Retrieves Horcrux 1s, hides all except one
+          final Horcrux 1 fallback in very secure location only undone if he goes
+          missing for long time.
+        </li>
+        <li>Tries to use Horcrux 1 spell on Harry, fails.</li>
+        <li>Quirrell founds old Horcrux 2 generated in step 6.</li>
+      </ol>
+
+================================================================================
+File: 108.yaml | Paragraph 18031
+================================================================================
+18031:
+  text: |-
+    "Obliviations and False Memory Charms. I could not trust anything else to go
+    undetected by the Hogwarts wards and the scrutiny I knew her mind would
+    undergo." A flicker of frustration crossed Professor Quirrell's face. "Part of
+    what you rightly call complication is because the first version of my plot did
+    not go as planned, and I had to modify it. I came to Miss Granger in the
+    hallways wearing the appearance of Professor Sprout, to offer her a conspiracy.
+    My first attempt at suasion failed. I Obliviated her and tried again with a new
+    presentation. The second bait failed. The third bait failed. The <em>tenth</em>
+    bait failed. I was so frustrated that I began going through my entire library of
+    guises, including those more appropriate to Mr. Zabini. <em>Still</em> nothing
+    worked. The child <em>would not</em> violate her childish code."
+  notes:
+  - type: original
+    date: 2020/04/30
+    text: |
+      <p>
+        Quirrell is the mysterious Hat and Cloak figure from
+        <a class="link-hpmor" href="https://hpmor.info/chapter/77/#13335">Chapter 77</a>
+      </p>
+
+================================================================================
+File: 109.yaml | Paragraph 18195
+================================================================================
+18195:
+  text: |-
+    "The runes say, <em>noitilov detalo partxe tnere hoc ruoy tu becafruoy ton wo
+    hsi -</em>" Harry stopped, feeling more prickles at his spine.
+  notes:
+  - type: original
+    date: 2020/04/30
+    text: |
+      <p>
+        reversed, this reads: "i show not your face but your
+        <a href="https://arbital.com/p/cev/">coherent extrapolated volition</a>"
+      </p>
+
+================================================================================
+File: 110.yaml | Paragraph 18304
+================================================================================
+18304:
+  text: |-
+    "I am there," Albus Dumbledore said, "and <em>also</em> inside the Mirror,
+    unfortunately for you. I have always been here, all along."
+  notes:
+  - type: reddit
+    author: sir_pirriplin
+    url: https://reddit.com/r/HPMOR/comments/5bf7gg/question_about_dumbledore_spoilers_all/d9oo96s/
+    date: 2016/11/06
+    score: 11
+    text: |
+      <p>
+        Word on God, as remembered by this random reader, is that "I have always been
+        here, all along" was a humorous reference to
+        <em
+          ><a href="https://www.fanfiction.net/s/10677106/19/Seventh-Horcrux"
+            >Seventh Horcrux</a
+          ></em
+        >.
+      </p>
+    replies:
+    - type: reddit
+      author: EliezerYudkowsky
+      url: https://reddit.com/r/HPMOR/comments/5bf7gg/question_about_dumbledore_spoilers_all/d9op5xg/
+      date: 2016/11/06
+      score: 11
+      text: |
+        <p>Yep.</p>
+
+================================================================================
+File: 110.yaml | Paragraph 18322
+================================================================================
+18322:
+  text: |-
+    "I suppose the humor of the situation would be lost on you." It was then,
+    finally, that Albus Dumbledore smiled. "How I laughed when I realised it! When I
+    saw you had made a Good Voldemort to oppose the evil one - ah, how I laughed! I
+    never had the steel for my role, but Harry Potter shall be more than equal to
+    it, when he comes into his power." Albus Dumbledore's smile disappeared. "Though
+    I suppose Harry shall have to find some other Dark Lord to vanquish for it,
+    since you will not be there."
+  notes:
+  - type: original
+    date: 2020/04/30
+    text: |
+      <p>
+        This refers to
+        <a class="link-hpmor" href="https://hpmor.info/chapter/17/#2706">Chapter 17</a>
+      </p>
+
+================================================================================
+File: 111.yaml | Paragraph 18360
+================================================================================
+18360:
+  text: |-
+    The Dark Lord spoke the words <em>"Hyakuju montauk"</em> without pausing in his
+    stride, accompanied by a jab of his wand; and Severus staggered before he
+    lifelessly drew himself up beside the door once more.
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/2z94ya/spoilers_all_what_does_voldemort_do_to_snape/cph0w7o/
+    date: 2015/03/16
+    score: 43
+    text: |
+      <p>
+        Voldemort gave Snape a vision of him performing procedure 110 Montauk on Lily,
+        thereby somewhat fulfilling his promise to let Snape have Lily. This would
+        have been a lot worse for Snape one year earlier, but this version was able to
+        retain his sanity. Still not fun.
+      </p>
+      <p>You asked.</p>
+    replies:
+    - type: reddit
+      author: ManyCookies
+      url: https://reddit.com/r/HPMOR/comments/2z94ya/spoilers_all_what_does_voldemort_do_to_snape/cph47zj/
+      date: 2015/03/16
+      score: 21
+      text: |
+        <p>
+          That's going right into my 110-Montauk headcanon: part of the procedure (not
+          all of it) is giving the victim hallucinations of performing 110 Montauk on
+          their loved ones.
+        </p>
+
+================================================================================
+File: 111.yaml | Paragraph 18380
+================================================================================
+18380:
+  text: |-
+    "Spiders..." murmured the Dark Lord. He sighed, and for that brief moment he
+    sounded once more like Professor Quirrell.
+  notes:
+  - type: reddit
+    author: tadrinth
+    url: https://reddit.com/r/HPMOR/comments/am3sjx/why_voldemort_mention_spider_at_chapter_107/efjp5k4/
+    date: 2019/02/01
+    score: 16
+    text: |
+      <p>
+        I got the impression he regretted his decision to kill Slytherin's monster.
+      </p>
+    replies:
+    - type: reddit
+      author: EliezerYudkowsky
+      url: https://reddit.com/r/HPMOR/comments/am3sjx/why_voldemort_mention_spider_at_chapter_107/efmawwo/
+      date: 2019/02/02
+      score: 15
+      text: |
+        <p>That's the impression you're supposed to get.</p>
+
+================================================================================
+File: 111.yaml | Paragraph 18453
+================================================================================
+18453:
+  text: |-
+    <em>Apokatastethi, apokatastethi, apokatastethi to soma mou emoi.</em>
+  notes:
+  - type: reddit
+    author: Ariese
+    url: https://reddit.com/r/HPMOR/comments/2x4z1u/chapter_111/cowyl60/
+    date: 2015/02/25
+    score: 45
+    text: |
+      <p>
+        Less literally, maybe it's a reference to
+        <em>My Bonnie Lies over the Ocean</em>?
+      </p>
+      <p>Apokatastethi, apokatastethi, apokatastethi to soma mou emoi (emoi).</p>
+      <p>
+        Bring back, bring back, bring back my <del>Bonnie</del>
+        <strong>body</strong> to me, to me
+      </p>
+
+================================================================================
+File: 111.yaml | Paragraph 18561
+================================================================================
+18561:
+  text: |-
+    "<em>Power of unicorn'ss blood to presserve life makess excellent combination
+    with troll'ss healing. Only Fiendfyre and Killing Cursse sshall girl-child fear,
+    from thiss day."</em> A flicker of snakish laughter. "<em>Bessidess, had sspare
+    unicorn left over, might ass well usse."</em>
+  notes:
+  - type: reddit
+    author: user1444
+    url: https://reddit.com/r/HPMOR/comments/7pgcd0/a_power_lv_could_have_used_spoilers/dsh8h2h/
+    date: 2018/01/10
+    score: 55
+    text: |
+      <p>
+        Hermione was a test trial, he absolutely planned the same for himself.<br />
+        He probably used up his spare unicorns and trolls laying around at the time.
+      </p>
+    replies:
+    - type: reddit
+      author: EliezerYudkowsky
+      url: https://reddit.com/r/HPMOR/comments/7pgcd0/a_power_lv_could_have_used_spoilers/dshn7ab/
+      date: 2018/01/10
+      score: 41
+      text: |
+        <p>Yup to both!</p>
+
+================================================================================
+File: 112.yaml | Paragraph 18612
+================================================================================
+18612:
+  text: |-
+    "<em>Ssilence, fool. Remain ssilent unlesss given leave by me to sspeak. Keep
+    your wand pointed down and do not raisse it unlesss told. Elsse you die upon the
+    sspot, and mark that I ssaid that in Parsseltongue."</em> Voldemort reached into
+    the altar again.
+  notes:
+  - type: reddit
+    author: linkhyrule5
+    url: https://reddit.com/r/HPMOR/comments/2xt6sy/chapter_115/cp35qlh/
+    date: 2015/03/03
+    score: 88
+    text: |
+      <p>
+        By the way, now that that's over... why did Harry still have his wand? There
+        were a lot of suspicions thrown around, but the most plausible I found was
+        "because Quirrell expected Harry to have to demonstrate something for him".
+      </p>
+    replies:
+    - type: reddit
+      author: EliezerYudkowsky
+      url: https://reddit.com/r/HPMOR/comments/2xt6sy/chapter_115/cp368u6/
+      date: 2015/03/03
+      score: 155
+      text: |
+        <p>
+          So that Harry could take the Unbreakable Vow, which used his wand. If not for
+          Partial Transfiguration, that would have been relatively safe. Voldemort still
+          underestimated Harry's threat level, in the end.
+        </p>
+        <p>
+          I remark that the thought occurred to me later that if I were Voldemort I
+          would have some Death Eaters looking outward, not everyone looking just at
+          Harry... but nobody called <em>that</em> out as stupid, because you were told
+          not to expect cavalry. Hindsight bias really is a thing.
+        </p>
+        <p>
+          EDIT: Observe replies below saying "Voldemort should've taken away the wand."
+          If Harry's glasses had contained something interesting instead, people would
+          be saying, "Take away the glasses."
+        </p>
+        <p>
+          I did look at the text to see if there was a natural place to insert Voldemort
+          saying "Drop the wand now" after ordering his Death Eaters to vigilance again,
+          with Harry refusing and Voldemort just continuing as before, but there didn't
+          seem to be a natural such place.
+        </p>
+
+================================================================================
+File: 113.yaml | Paragraph 18692
+================================================================================
+18692:
+  text: |-
+    <em><strong>Otherwise you will get a shorter and sadder ending.</strong></em>
+  notes:
+  - type: reddit
+    author: '[deleted]'
+    url: https://reddit.com/r/HPMOR/comments/2xt6sy/chapter_115/cp35kll/
+    date: 2015/03/03
+    score: 28
+    text: |
+      <p>
+        Are you still going to post the sad ending, after the rest of the story, so we
+        can see what it was?
+      </p>
+    replies:
+    - type: reddit
+      author: EliezerYudkowsky
+      url: https://reddit.com/r/HPMOR/comments/2xt6sy/chapter_115/cp36fvn/
+      date: 2015/03/03
+      score: 127
+      text: |
+        <p>
+          In the profoundly improbable event that I'd needed to write one, it would have
+          just been Harry suiciding via antimatter (that went off prematurely as soon as
+          it started to Transfigure) and Hermione waking up among the flaming ruins.
+        </p>
+
+================================================================================
+File: 114.yaml | Paragraph 18739
+================================================================================
+18739:
+  text: |-
+    "<em>Life-eaterss will purssue you alwayss, hate you alwayss, sseek you out
+    wherever you go, if what I have jusst done wass ssuccesssful, I have caused them
+    to be set upon you! Guardian Charm ssecret will be beyond you for long time to
+    come, perhapss forever! Besst defensse againsst life-eaterss would die with
+    me!</em> "
+  notes:
+  - type: reddit
+    author: himself_v
+    url: https://reddit.com/r/HPMOR/comments/2xxmvf/114_im_halping/cp4gc9q/
+    date: 2015/03/04
+    score: 11
+    text: |
+      <p>
+        Harry was too obvious. "After what I did just now". He did nothing but talk,
+        which gives it away. Should have said something more ambiguous.
+      </p>
+    replies:
+    - type: reddit
+      author: EliezerYudkowsky
+      url: https://reddit.com/r/HPMOR/comments/2xxmvf/114_im_halping/cp4pmtm/
+      date: 2015/03/04
+      score: 18
+      text: |
+        <p>Parseltongue forced the qualification.</p>
+
+================================================================================
+File: 114.yaml | Paragraph 18745
+================================================================================
+18745:
+  text: |-
+    And Harry's eyes went on tracking slowly across the graveyard, as his hand
+    remained tight upon his wand.
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/716zyr/a_straightforward_theory_of_why_voldemort_let/dna5upr/
+    date: 2017/09/20
+    score: 9
+    text: |
+      <blockquote>
+        <p>
+          For that matter, why didn't Voldemort sense that Harry had conceived of (and
+          was executing) a plan that would allow him to win?
+        </p>
+      </blockquote>
+      <p>
+        It's established in text that Harry is feeling pure, focused concentration
+        more than any such emotion, for exactly that reason.
+      </p>
+
+================================================================================
+File: 114.yaml | Paragraph 18765
+================================================================================
+18765:
+  text: |-
+    <em>Beneath the moonlight glints a tiny fragment of silver, a fraction of a
+    line...</em>
+  notes:
+  - type: original
+    date: 2020/04/30
+    text: |
+      <p>
+        This is the first line of the book:
+        <a class="link-hpmor" href="https://hpmor.info/chapter/1/#11">Chapter 1</a>
+      </p>
+
+================================================================================
+File: 117.yaml | Paragraph 18972
+================================================================================
+18972:
+  text: |-
+    no no no no no no NO NO NO NO
+  notes:
+  - type: reddit
+    author: EliezerYudkowsky
+    url: https://reddit.com/r/HPMOR/comments/2yczbl/harry_potter_and_the_methods_of_rationality/cp8d5v1/
+    date: 2015/03/08
+    score: 151
+    text: |
+      <p>
+        So to everyone who came here to post about how Harry should have tried to call
+        someone in to Frigideiro and Transfigure the Death Eater's heads for later
+        attempted revival...
+      </p>
+      <p>Harry hasn't thought of that yet.</p>
+      <p>
+        He hasn't yet spent enough time thinking about the information-theoretic
+        criterion of death that he <em>automatically</em> looks at the recently
+        severed head of a dead body and sees someone who's still alive and in need of
+        saving.
+      </p>
+      <p>
+        Harry is going to think of it a week later, maybe, while he's going through it
+        in his head wondering if there was something better he could have done. I
+        think that's what's realistic, all things considered. I didn't see that option
+        for at least a day after I plotted out that point, so Harry shouldn't see it
+        instantly either, especially when he's busy trying to not think about the
+        awful thing he just did, or properly manage the guilt the way his model of
+        Moody says he should.
+      </p>
+      <p>
+        Sure is pointlessly tragic, huh? If only wizards did this sort of thing more
+        often, so that Harry wasn't the only one who apprehended the possibility. By
+        the way, everyone who came here to post about how Harry should have tried to
+        call someone in to Frigideiro and Transfigure the heads, you
+        <em>have</em> actually taken the time and undergone the minor inconvenience to
+        sign up yourself and your loved ones up for cryonics. <em>Right?</em> Because
+        it would be even <em>more</em> pointlessly ironic and tragic if you wrote
+        about how silly it was for Harry to miss that, and then you didn't do anything
+        about it yourself. Sort of like if I'd shown Harry criticizing a stage play
+        where someone else had failed to preserve the severed heads of their enemies
+        and the information inside, and then Harry himself didn't try to cool down
+        Hermione in the crisis and just let her die. Hint hint HINT <em>HINT</em>
+        <strong><em>HINT.</em></strong>
+      </p>
+
+================================================================================
+File: 119.yaml | Paragraph 19126
+================================================================================
+19126:
+  text: |-
+    <em>And so, it being clear that this world is not meant to last, I have gambled
+    literally everything upon you, Harry James Potter-Evans-Verres. There were no
+    prophecies of how the world might be saved, so I found the prophecies that
+    offered loopholes in the destruction; and I brought about the strange and
+    complex conditions for those prophecies to come to pass. I ensured that
+    Voldemort discovered a certain one of those prophecies, and so (even as I had
+    feared) condemned your parents to death and made you what you are. I wrote a
+    strange hint in your mother's Potions textbook, having no idea why I must; and
+    this proved to show Lily how to help her sister, and ensured you would gain
+    Petunia Evans's heartfelt love. I snuck invisibly into your bedroom in Oxford
+    and administered the potion that is given to students with Time-Turners, to
+    extend your day's cycle by two hours. When you were six years old I smashed a
+    rock that was on your windowsill, and to this day I cannot imagine why.</em>
+  notes:
+  - type: original
+    date: 2020/04/30
+    text: |
+      <p>
+        The rock that Dumbledore smashed was Harry's "pet rock" mentioned in
+        <a class="link-hpmor" href="https://hpmor.info/chapter/6/#520">Chapter 6</a>
+      </p>
+
+================================================================================
+File: 122.yaml | Paragraph 19469
+================================================================================
+19469:
+  text: |-
+    The purpose of the Elder Wand always going to the victor might be to find the
+    strongest living wizard and empower them still further, in case there was any
+    threat to their entire species; it could secretly be a tool to defeat Death in
+    its form as the destroyer of worlds.
+  notes:
+  - type: reddit
+    author: XxChronOblivionxX
+    url: https://reddit.com/r/HPMOR/comments/8cc1vd/destroyer_of_worlds/dxe12eq/
+    date: 2018/04/15
+    score: 52
+    text: |
+      <p>
+        The "destroyer of worlds" bit isn't referring to anything specific, it is to
+        refer to global existential threats as the kind of problem that Harry suspects
+        the Elder Wand was designed to solve. The Cloak of Invisibility accepted Harry
+        as the heir of Ignotus Peverell after he had destroyed Death in its form as a
+        Dementor, and revealed its true capabilities to him, as he had mastered it and
+        could now detect its presence easily. The Resurrection Stone accepted Riddle
+        as the Heir of Cadmus Peverell after he survived the death of his body,
+        unlocking capabilities that let his spirit drift freely along his Horcrux
+        network.
+      </p>
+      <p>
+        The Elder Wand was designed for something else: global threats to the whole
+        species. The obvious use of it is to be a straight up power boost so the
+        strongest wizard available is well defended against such a large threat. But
+        Harry still wonders at what abilities it grants to an heir it acknowledges,
+        especially since Dumbledore had probably been accepted as the heir of Antioch
+        Peverell for his actions in trying to prevent the Death of the world, and
+        received help in some way from it.
+      </p>
+    replies:
+    - type: reddit
+      author: EliezerYudkowsky
+      url: https://reddit.com/r/HPMOR/comments/8cc1vd/destroyer_of_worlds/dxe4z54/
+      date: 2018/04/15
+      score: 51
+      text: |
+        <p>Correct.</p>
+
