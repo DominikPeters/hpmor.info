@@ -502,6 +502,14 @@ last_para: 16686
   text: |-
     <em>Thrayen beyn Peverlas soona ahnd thrih heera toal thissoom Dath bey
     yewoonen.</em>
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+         You'll find the translation on this chapter footnote.
+      </p>
 16671:
   text: |-
     "What?" Harry said aloud. The words had popped up into his stream of

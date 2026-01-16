@@ -302,6 +302,14 @@ last_para: 8323
     see. One might say it sounds like something of a riddle. I must admit, Mr.
     Potter, that although it has had its ups and downs, on the whole, this has been
     a surprisingly good day."
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+         Something of a Tom Riddle.
+      </p>
 8251:
   text: |-
     And they continued walking down the path that led to the gates of Hogwarts,
@@ -420,6 +428,17 @@ last_para: 8323
   text: |-
     Hermione stared at the wax-sealed paper, on the surface of which was inscribed
     simply the number <em>42.</em>
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+         <quote>The Answer to the Ultimate Question of Life, the Universe, and Everything is 42</quote>
+         </p>
+
+         <p>Famous SF quote from Douglas Adams book
+      </p>
 8278:
   text: |-
     <em>I figured out why we couldn't cast the Patronus Charm, Hermione, it doesn't
@@ -538,6 +557,14 @@ last_para: 8323
     The logic had presented itself with a strange diamondlike clarity. Harry
     couldn't have said if it had come to him during Fawkes's singing, or maybe even
     before.
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+         Harry had the souvenirs of Voldemort, who already knew the prophecy. So this part of the story make sudden sens intuitively, and once he got the intuition, he was able to get as much details back logically as possible.
+      </p>
 8302:
   text: |-
     Lord Voldemort had killed James Potter. He had preferred to spare Lily Potter's

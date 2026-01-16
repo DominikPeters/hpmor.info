@@ -28,6 +28,14 @@ last_para: 14133
     destroyed, for those walls of dark stone would pass unharmed, and perhaps
     unwarmed, through the heart of a nuclear explosion. It is a pity that nobody
     knows how to make them anymore.
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+         With high probability, this entire line of history, Atlantis, Merlin, the risks that should be stopped, seems to be a metaphor, for the author main goal, ensuring that AI is correctly aligned.
+      </p>
 14001:
   text: |-
     In the highest of the rising half-circles of the Wizengamot, on the topmost

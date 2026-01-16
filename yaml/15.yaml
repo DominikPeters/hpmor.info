@@ -142,6 +142,14 @@ last_para: 2201
     ask you any question, no matter how obvious or elementary, and you answer 'I'm
     not sure', I will not hold it against you and anyone who laughs will lose House
     points. Can you tell me why this rule exists, Mr. Potter?"
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+        Probably related to <a href="https://www.lesswrong.com/posts/NMoLJuDJEms7Ku9XS/guessing-the-teacher-s-password">Guessing the teacher password</a>, where bad professors note whether the correct words are stated, not whether a real understanding occurs; where it's always worth uttering something as it can't hurt more than staying silent.
+      </p>
 2126:
   text: |-
     <em>Because a single error in Transfiguration can be incredibly dangerous.</em>

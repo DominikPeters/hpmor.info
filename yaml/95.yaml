@@ -96,6 +96,14 @@ last_para: 16557
     right. He tilted his head with a look of calculation, and then he walked almost
     directly towards where Harry stood, halted a few paces off with the sense of
     doom enflamed to the height of bearability.
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+         Basic geometry. Quirrel does not know where Harry is but he can fill the distance to Harry If he start at position A, he can move in any direction to try to get closer to Harry. Once he find such a direction, he moves in straight line and find a second point B at the same distance from Harry than A. Harry is on the Bisector of A and B.
+      </p>
 16473:
   text: |-
     "Are you still resolved upon your course?" Professor Quirrell said. "The same
@@ -431,6 +439,19 @@ last_para: 16557
     love. What these stories have in common, Mr. Potter, is that they are all
     <em>fiction.</em> Real-life wizards do not attempt the same, even though the
     notion is clearly <em>not</em> beyond their imagination."
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+         Here are references to other stories. Spoiler from those stories, copied from <a href="https://libredd.it/r/HPMOR/comments/1ij4iz/chapter_95_discussion_thread_chapter_95_spoilers/cb562aa">here</a>.<ul>
+<li>Elric Brothers - Fullmetal Alchemist</li>
+<li>Dora Kent - A cryonic suspension case. Curious to have that be a wizard story.</li>
+<li>Ronald Mallett - Does time research. Complicated physics stuff about lasers and time.</li>
+<li>Precia Testarossa - villain from Magical Girl Lyrical Nanoha</li>
+<li>Akemi Homura - Puella Magi Madoka Magica</li></ul>
+      </p>
 16534:
   text: |-
     "Because they don't think they <em>can!</em> " Harry's voice rose.
@@ -534,6 +555,14 @@ last_para: 16557
     Professor Quirrell looked back at him. Something strange glinted in the pale
     eyes. "I have done what I can, and now I fear I must take my leave of you. Good
     -" and the Defense Professor hesitated. "Good day, Mr. Potter."
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+         Almost say "goodbye" which would mean Quirell would kill Harry.
+      </p>
 16552:
   text: |-
     "Good -" Harry began.

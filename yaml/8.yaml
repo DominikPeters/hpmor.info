@@ -15,6 +15,14 @@ last_para: 1205
     Luna <em>is</em> a seer, she said something about "light planting a seed in
     darkness", and Xenophilius, as always, interpreted this in rather the wrong way.
   draw-line-after-paragraph: true
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+        Fan fiction notation. Harry Potter-Draco Malfoy relationship with Draco being "bottom" in the sexual relationship and with Male PREGnancy.
+      </p>
 1024:
   text: |-
     <em>"Allow me to warn you that challenging my ingenuity is a dangerous sort of
@@ -90,6 +98,14 @@ last_para: 1205
     it seems likely that I'm meant to talk to you or invite you to join my party or
     get a key magical item from you or find out that Hogwarts was built over the
     ruins of an ancient temple or something. PC or NPC, that is the question?"
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+        Role Playing notation: Playable Character or Non Playable Character. I.e. whether the character has any agency in the story.
+      </p>
 1034:
   text: |-
     Hermione opened her mouth to reply to this, but then she couldn't think of any

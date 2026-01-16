@@ -12,6 +12,14 @@ last_para: 6724
     theory" that's under development by (among others) Gary Drescher, Wei Dai,
     Vladimir Nesov, and, well... <em>(coughs a few times)</em> me.
   draw-line-after-paragraph: true
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+      This as since been renamed to <a href="https://www.lesswrong.com/w/updateless-decision-theory">updateless decision theory</a>.
+      </p>
 6388:
   text: |-
     The terrifying part was how fast the whole thing had spiraled out of control.
