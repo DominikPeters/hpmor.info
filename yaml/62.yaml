@@ -200,6 +200,14 @@ last_para: 10681
     reading your message, and this was the first kind of code, but it was better
     than nothing. In theory, no one should read it anyway; but even if they did,
     they wouldn't remember anything interesting unless they did cryptography first.
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+         Originally from the Preface of Schneier's <a href="https://www.schneier.com/books/applied-cryptography-2preface/">applied cryptography</a>
+      </p>
 10568:
   text: |-
     Harry then put that parchment in a parchment envelope, and with his wand melted
@@ -387,6 +395,14 @@ last_para: 10681
     realistic depiction of a wizarding war. John Tolkien never fought Voldemort.
     Your war will not be like the books you have read. Real life is not like
     stories. Do you understand, Harry?"
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+         He still knew WWII however
+      </p>
 10606:
   text: |-
     Harry, rather slowly, nodded yes; and then shook his head no.
@@ -481,6 +497,14 @@ last_para: 10681
     Harry turned back then, and saw a coldness on the old wizard's face to match the
     shift in his voice, Dumbledore's blue eyes grown hard as steel behind the
     glasses, it didn't match the person but it matched the formal black robes.
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+         He is thinking about his brother's death.
+      </p>
 10622:
   text: |-
     "Is that everything, then?" said Harry's trembling voice. Later he would think

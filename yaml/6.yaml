@@ -102,6 +102,14 @@ last_para: 689
           >Fake Explanations</a
         >
       </p>
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+        The author <a href="https://www.lesswrong.com/posts/8QzZKw9WHRxjR4948/the-futility-of-emergence">blogged</a> that he used "magic" instead of complex word in order to emphasize that they don't know and avoid creating a false explanation.
+      </p>
 405:
   text: |-
     The black-robed witch laughed aloud. "But it <em>is</em> magic, Mr. Potter."
@@ -295,6 +303,14 @@ last_para: 689
     "Dementor Exposure Treatment", which looked and smelled like ordinary chocolate.
     Or the "Bafflesnaffle Counter", which looked like a small quivering egg and
     carried a placard showing how to jam it up someone's nostril.
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+        This is because it's chocolate. Future usage will just describe this as chocolate.
+      </p>
 441:
   text: |-
     "A definite buy at five Galleons, wouldn't you agree?" Harry said to Professor
@@ -1419,6 +1435,14 @@ last_para: 689
   text: |-
     "That's hardly an answer!" snapped Professor McGonagall, and then stopped,
     blinking.
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+      Role reversing. Harry noted that McGonagall's answer "Magic" was not a real answer either and didn't explain anything. No she understands        
+      </p>
 654:
   text: |-
     "No, it isn't, is it? I <em>ought</em> to claim that it's because I

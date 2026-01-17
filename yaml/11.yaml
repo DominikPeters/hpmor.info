@@ -388,6 +388,14 @@ last_para: 1549
   text: |-
     "ROOT!"
   draw-line-after-paragraph: true
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+        In Unix computer system, "root" is the administrator of the computer, having the power to make any change without constraint. That mean no safeguard prevent breaking things, and is considered very powerful.
+      </p>
 1510:
   text: |-
     <em>"Oh, dear. This has never happened before..."</em>

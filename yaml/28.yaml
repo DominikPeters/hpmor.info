@@ -337,6 +337,14 @@ last_para: 5806
   text: |-
     Step Three, prioritize constraints that a wizard would be unlikely to question
     if they <em>didn't</em> know science.
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+        EY wrote an entire book, <a href="https://www.amazon.fr/Inadequate-Equilibria-Where-Civilizations-English-ebook/dp/B076Z64CPG">Inadequate Equilibria</a> was based on this concept: 
+      </p>
 5594:
   text: |-
     Step Four, come up with avenues for attacking them.

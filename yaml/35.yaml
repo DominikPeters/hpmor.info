@@ -467,6 +467,14 @@ last_para: 6973
     And Blaise Zabini went on walking toward the Headmaster's office, smiling,
     content to be a quadruple agent.
   draw-line-after-paragraph: true
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+         In case it is not obvious: he was obliviated.
+      </p>
 6931:
   text: |-
     <em>Aftermath: Hermione Granger.</em>

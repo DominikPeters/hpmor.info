@@ -5,6 +5,14 @@ last_para: 150
   text: |-
     #include "stddisclaimer.h"
   draw-line-after-paragraph: true
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+        Programming joke. In C and C++, a file ending in ".h" is a "header" file and is the standard way to import useful tools already existing elsewhere. This would literally put standard disclaimer here instead as far as the computer is concerned, without needing for the human to see them every time
+      </p>
 98:
   text: |-
     <em>"Of course it was my fault. There's no one else here who could be

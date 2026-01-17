@@ -969,7 +969,14 @@ last_para: 3234
 3092:
   text: |-
     Dumbledore started laughing. Full-throated, warm, humorous laughter, as if Harry
-    had just performed a comic dance in front of him.
+    had just performed a comic dance in front of him.  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+         Dumbledore thought he was speaking to Voldemort. He realized it's a good Voldemort!
+      </p>
 3093:
   text: |-
     Minerva didn't dare move. Her eyes flickered and she saw that Severus was

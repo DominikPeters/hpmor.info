@@ -240,6 +240,14 @@ last_para: 8845
     particular reason to fear Mr. Hagrid's vindication; thus Lucius Malfoy will only
     resist to the extent that he can do so costlessly in order to impose costs on
     Dumbledore, and Dumbledore is clearly willing to prosecute the case regardless."
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+         In Canon, the Student Puppet is Tom Riddle, later known as Voldemort.
+      </p>
 8758:
   text: |-
     Professor Quirrell took a sip of his water. "But I digress. The new evidence
@@ -537,6 +545,14 @@ last_para: 8845
     <em>very rare.</em>" The snake's eyes were flat surfaces ensconced within dark
     pits, sharp black pupils in dark gray fields. "<em>This iss mosst ssecure way to
     sspeak. You ssee? No otherss undersstand uss.</em>"
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+         This is the reverse from original rule. Avoid becoming animal.
+      </p>
 8813:
   text: |-
     "<em>Even if they are ssnake Animagi?</em> "

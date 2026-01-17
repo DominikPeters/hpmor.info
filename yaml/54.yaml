@@ -380,6 +380,14 @@ last_para: 9397
     let a man do what he could for his poor sick wife, especially when he only had
     seven months left before his retirement.
   draw-line-after-paragraph: true
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+         Seems to call out the <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/Retirony">Retirony</a> trope
+      </p>
 9293:
   text: |-
     The faint green spark floated through the metal corridors, and the silver

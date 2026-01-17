@@ -87,6 +87,15 @@ last_para: 18347
       score: 11
       text: |
         <p>Yep.</p>
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+         It probably means that, out of the 30 hours a day, 24 were spent in the mirrors waiting and only the extra 6 from time turner were available for anything extra.
+      </p>
+17831:
 18305:
   text: |-
     "Ah," said Professor Quirrell, and sighed. "I suppose my little distraction was

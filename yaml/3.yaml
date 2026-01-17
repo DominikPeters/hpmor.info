@@ -199,6 +199,14 @@ last_para: 209
     "Knives +3! Forks +2! Spoons with a +4 bonus!" There were goggles that would
     turn anything you looked at green, and a lineup of comfy armchairs with ejection
     seats for emergencies.
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+        Roleplay reference. This is the way weapons are usually described.
+      </p>
 181:
   text: |-
     Harry's head kept rotating, rotating like it was trying to wind itself off his

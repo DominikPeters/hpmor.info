@@ -649,6 +649,14 @@ last_para: 10527
     Weasley says that rockers use a special kind of science called opposite
     reaction, so the plan is to develop a jinx which will prevent that science from
     working around Azkaban."
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+         This Jinx promises to be fun. Almost no movement will be possible anymore.
+      </p>
 10464:
   text: |-
     "Thank you, Amelia," Albus said gravely. "Is that everything?"
@@ -874,10 +882,26 @@ last_para: 10527
     who wished to forge that signature must needs be as cunning as Voldemort himself
     to do so. And there is no one else in the world who would accidentally
     overestimate my wit, and leave me a message I cannot understand at all."
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+         That's <a href="https://www.lesswrong.com/w/vinge-s-law">Vinge law</a>
+      </p>
 10510:
   text: |-
     "Unless he has gauged you exactly," Severus said tonelessly, "in which case all
     that is just what he intended you to think."
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+         This seems to be indeed the case, since they conclude that HJPEV is NOT involved which is what Quirrell wanted them to conclude.
+      </p>
 10511:
   text: |-
     Albus sighed. "Indeed. But even if he has tricked me perfectly, we may at least

@@ -849,6 +849,14 @@ last_para: 13058
   text: |-
     Non est salvatori salvator,<br/> neque defensori dominus,<br/> nec pater nec
     mater,<br/> nihil supernum.
+  notes:
+  - type: original
+    date: 2026/01/17
+    author: arthur@milchior.fr
+    text: |
+      <p>
+         Translated by fan at the author's request on <a href="https://www.lesswrong.com/posts/qpp6ZdwHLNKj6PXRp/req-latin-translation-for-hpmor">reddit</a>.
+      </p>
 13058:
   text: |-
     - Godric Gryffindor,<br/> 1202 C.E.
